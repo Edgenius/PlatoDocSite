@@ -1,4 +1,4 @@
-baseurl = "http://doc.platoforms.com/"
+baseurl = "https://docs.platoforms.com"
 title = "Platoforms Documentation"
 languageCode = "en-au"
 theme = "hugo-theme-learn"
