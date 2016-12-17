@@ -2,3 +2,4 @@
 node_modules
 static/json
 public
+firebase-debug.log
