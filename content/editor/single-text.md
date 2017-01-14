@@ -13,9 +13,10 @@ weight = 5
 ### Format
 {{% notice note  %}}
 <a name="HM-EDITOR-010" class="anchor"></a>
-Format can separate input text with spearator,e.g, ##:##:##.  If separator is #, spearator can use *, i.e, **#**#**. 
+It splits the text input into pieces with our format syntax, for example, date format YYYY/MM/DD. 
 
-Sample format, placeholder character is always #, separate can be any characters except #.
+h4. Sample format
+Placeholder character is always #, separate can be any characters except #.
 ```
 ##:##:##
 ##/##/##
@@ -27,17 +28,27 @@ You can define the various length, by [m-n] format, or `*` to indicate any lengt
 #[0-3]:##:#*
 ```
 
-For number, you can use `d` as placeholder instead of `#`.
+h4. Number format
+Placeholder is `n`.
 
 ```
 dd:dd:dd
 ##:dd:##
 ```
 
-All reserved characters list here:
+h4. Date and Time format
+
+Date YYYY/MM/DD
+Time hh:mm:ss
+
+Please note, these letter are case sensitive. yyyy/mm/dd won't render correctly.
+
+[moment.js](http://momentjs.com/docs/)
+
+h4. Reserved characters and escape
 ```
 #                        -> character placeholder
-d                        -> digit placeholder
+n                        -> digit placeholder
 [], digit 0 to 9, - or * -> length range
 \                        -> escape 
 ```
