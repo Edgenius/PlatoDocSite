@@ -14,6 +14,7 @@ weight = 5
 {{% notice note  %}}
 <a name="HM-EDITOR-010" class="anchor"></a>
 It splits the text input into pieces with our format syntax, for example, date format YYYY/MM/DD. 
+{{% /notice  %}}
 
 h4. Sample format
 Placeholder character is always #, separate can be any characters except #.

@@ -1,5 +1,5 @@
 +++
-title = "form settings"
+title = "Form Settings"
 weight = 5
 prev = "/prev/path"
 next = "/next/path"
