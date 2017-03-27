@@ -1,16 +1,14 @@
 +++
-title = "Editor"
+title = "Design the Form"
 weight = 0
-prev = "/prev/path"
-next = "/next/path"
+prev = "/home/"
+next = "/editor/single-text/"
 chapter = true
 icon = "<b>+ </b>"
 date = "2016-12-17T12:09:14+11:00"
 
 +++
 
-### Chapter X
+# Design the Form  
 
-# Some Chapter title
 
-Lorem ipsum

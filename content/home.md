@@ -7,4 +7,4 @@ toc = true
 
 +++
 
-> *Home of Documentation* This is documentation home page of PlatoForms
+> *Home of Documentation* This is documentation home page of PlatoForms.

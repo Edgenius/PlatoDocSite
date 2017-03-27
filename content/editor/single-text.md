@@ -1,14 +1,12 @@
 +++
-prev = "/prev/path"
-next = "/next/path"
+prev = "/editor/"
+next = "/editor/options/"
 toc = true
 date = "2017-01-03T11:27:55+11:00"
-title = "single text"
+title = "Single line text"
 weight = 5
 
 +++
-
-
 
 ### Format
 {{% notice note  %}}
