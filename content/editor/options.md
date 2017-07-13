@@ -1,11 +1,5 @@
 +++
 title = "Editing Options"
-weight = 100
-prev = "/editor/single-text/"
-next = "/submissions/"
-toc = true
-date = "2017-02-02T17:30:19+11:00"
-
 +++
 ### Form Prefix
 {{% notice note  %}}
