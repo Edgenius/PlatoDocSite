@@ -5,3 +5,16 @@ theme = "hugo-theme-docdock"
 
 [outputs]
 	home = [ "HTML", "RSS", "JSON"]
+
+[[menu.shortcuts]]
+pre = "<h3>More</h3>"
+name = "<i class='fa fa-home'></i> PlatoForms"
+identifier = "platoforms"
+url = "https://www.platoforms.com"
+weight = 1
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-gear'></i> API Documentation"
+identifier = "apidoc"
+url = "https://api.docs.platoforms.com/"
+weight = 2	
