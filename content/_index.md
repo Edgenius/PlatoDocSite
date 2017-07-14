@@ -12,11 +12,11 @@ PlatoForms helps to conquer this problem. You can use its form builder to create
 
 PlatoForms is a good way to collect data from your customers or your team members. But it is not suitable for:
 
-* If you only want to fill the PDF once.
+* If you only need to fill the PDF once.
 * You don't have that PDF yet and want to build a PDF form from scratch. Actually, we are building this feature. If you are eager to use this functionality, please free to [sign up our form builder](https://design.platoforms.com), you will get the newsletter when it is ready.
-* If your PDF form is extremely complicated. Although PlatoForms can handle this, the web form could be too long to fill. It is a bad user experience for your customers. But it may be not a problem if the form is sharing within your team and the team members are not care about this.
+* If your PDF form is extremely complicated. Although PlatoForms can handle this, the web form could be too long to fill. It causes poor user experience to your customers. But it may be not a problem if the form is only used within your team and the team members are not care about this.
 
-PlatoForms can handle various format PDF, such as multiple pages, PDF with various images or even a scanned PDF. PlatoForms is pretty easy to use. In most case, you don't need to read this document, just upload your PDF and play with the form builder!
+PlatoForms can handle various format PDF, such as multiple pages PDF, PDF with various images or even a scanned PDF. PlatoForms is pretty easy to use. In most case, you don't need to read this document, just upload your PDF and play with the form builder.
 
 If any questions, go to our [website home page](https://www.platoforms.com) and send message to us.
 
