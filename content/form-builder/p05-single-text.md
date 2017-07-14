@@ -8,10 +8,9 @@ weight = 5
 With format rule, you can split Text Field into a few of pieces. For example, you can set YYYY/MM/DD for a date type field.
 {{% /notice %}}
 
-In text field property popup, there is a "format" value. If the text field is `Single Line Text`, `Date`, `Time` or `Date and Time`, you can use below rules to set up the format.
+In `Signle Line Text` properties popup, there is a "format" property. If the text type is `Single Line Text`, `Date`, `Time` or `Date and Time`, you can use below rules to set up the format rule to make fine control on this field.
 
 ![Text Field Format](/images/page/form/text-type.png)
-
 
 As the example, in this is screenshot, it is Date type. It sets the date format to `YYYY-MM-DD`, so you can see the form fields are split into 3 smaller input fields to allow user input correct `YYYY-MM-DD` format date.
 
@@ -19,7 +18,6 @@ As the example, in this is screenshot, it is Date type. It sets the date format 
 
 
 #### Format for Single Line Text input
-
 
 Placeholder character can be `#`(character) or `d`(digit).  
 
