@@ -3,3 +3,6 @@ a.anchor {
     top: -250px;
     visibility: hidden;
 }
+code {
+	vertical-align: baseline !important;
+}

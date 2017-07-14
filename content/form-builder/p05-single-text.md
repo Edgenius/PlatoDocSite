@@ -5,10 +5,10 @@ weight = 5
 
 {{% notice tip  %}}
 <a name="HM-EDITOR-010" class="anchor"></a>
-With format property, you can split Text Field into a few of pieces. For example, you can set YYYY/MM/DD for a Date type field.
+With format property, you can split Text Field into a few of parts. For example, you can set YYYY/MM/DD for a Date type field.
 {{% /notice %}}
 
-In `Signle Line Text` properties popup, there is a "Format" property. Only if the text type is `Single Line Text, Date, Time or Date and Time`, you can use below rules to set up the format rule to make fine control on this field.
+In `Signle Line Text` properties popup, there is a "Format" property. Only if the text type is `Single Line Text, Date, Time or Date and Time`, you can use below rules to set up the format to add fine control over this field.
 
 ![Single line text Type](/images/page/form/text-type.png)
 
@@ -31,17 +31,12 @@ In below example, the first format rule will split the field into 3 parts with `
 (##) (###) (#########)
 ```
 
-Below examples include the digit only or digit and text mixed. Their separator is `:`. 
+Format rules `dd:dd:dd` is  the digit only with separator  `:`. 
 
-```
-dd:dd:dd
-##:dd:##
-```
+Format rules `##:dd:##` is the digit and text mixed with separator  `:`. 
 
-Generally, the input is fixed length. For example, `###:##` will be 3 characters in first part and 2 character in second part. You can define length by [m-n] format, or `*` to indicate any length. For example, below 3 parts input,  the first part can be 0 to 3 characters, then 2 characters in the second part, and any of length of characters in last part.
-```
-#[0-3]:##:#*
-```
+
+Generally, the input is fixed length. For example, `###:##` will be 3 characters in its first part and 2 character in its second part. You can define length range by `[m-n]` format, or `*` to indicate any length. For example, this format rule `#[0-3]:##:#*` is 3 parts,  the first part can be 0 to 3 characters, then 2 characters in the second part, and any of length of characters in last part.
 
 **Reserved characters and escape**
 
@@ -52,17 +47,16 @@ d                        -> digit placeholder
 \                        -> escape 
 ```
 
-If the separator is reserved character, you can escape it by `\`.  For example, `##\###\###:##` format rule, its separator is `#` which is escaped by `\`. So input `xx#yy#cc` is valid input.
+If the separator is a reserved character, you can escape it by `\`.  
 
-More examples:
-```
--> Separator is [,  ] and *
-##\[##\]##\*##  > xx[yy]cc*dd
+Some examples: 
 
--> If spearator is '\', it must escape itself in format '\\'
-##\\##\\##  > xx\yy\cc  
+Format rule `##\###\###:##`, its separator is `#` which is escaped by `\`. Its render looks like `xx#yy#cc`.
 
-```
+Format rule `##\[##\]##\*##`, its separator is `[`,  `]` and `*` and its render looks like `xx[yy]cc*dd`. 
+
+Format rule `##\\##\\##`, its spearator is `\` which is escaped by its leading `\`.
+
 
 #### Format for Date and Time field 
 
@@ -76,6 +70,6 @@ We use `moment.js` to convert date and time format rule. so if you want to more 
 
 
 #### Separator in PDF
-In format rule property, you can change its render mode in PDF. For example, if your PDF already has ":" in a field, you can select No in "Print separator in PDF". Then the separator character won't render into PDF when PlatoForms generates it.
+In format rule property, you can change its separator rendering mode in PDF. For example, if the separator `:` is already exist in your PDF, you can select `No` in `Print separator in PDF` in its pop menu. This separator `:` character won't render into PDF when PlatoForms generates it.
 
 ![Separator Print Option](/images/page/form/separator-print.png)

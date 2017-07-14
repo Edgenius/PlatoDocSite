@@ -8,7 +8,7 @@ title = "Home of PlatoForms Documentation"
 
 PlatoForms is a service to help you convert your PDF into a common form in web page.  Filling out the PDF is always challenge. Even you make a fillable PDF file, your customers may still don't know how to fill it in. In contrast, the form in web page is a common way to collect data. Everyone knows how to use it if he/she knows how to surf the Internet!
 
-PlatoForms helps to conquer this problem. You can use its form builder to create a web form which links the form fields to your PDF.  When your customers are filling in the form in web page, they even don't know they are filling out a PDF!  Once PlatoForms gets the submission, it will convert the data into your PDF and notify you. 
+PlatoForms helps to conquer this problem. You can use its form builder to create a web form which links the form fields to your PDF.  When your customers are filling in the form in web page, they even don't know they are filling out a PDF! Once PlatoForms gets the submission, it will convert the data into your PDF and notify you. 
 
 PlatoForms is a good way to collect data from your customers or your team members. But it is not suitable for:
 
@@ -18,8 +18,8 @@ PlatoForms is a good way to collect data from your customers or your team member
 
 PlatoForms can handle various format PDF, such as multiple pages, PDF with various images or even a scanned PDF. PlatoForms is pretty easy to use. In most case, you don't need to read this document, just upload your PDF and play with the form builder!
 
+If any questions, go to our [website home page](https://www.platoforms.com) and send message to us.
 
 ![PlatoForms Dashboard](/images/page/home/dashboard.png)
 
 
-If any questions, go to our [website home page](https://www.platoforms.com) and send message to us.
