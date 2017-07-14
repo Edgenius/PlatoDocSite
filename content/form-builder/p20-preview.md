@@ -3,30 +3,30 @@ title = "Preview Form"
 weight = 20
 +++
 
-Click "Preview Form" button in toolbar can open a new window to check what your form looks like.  This form can be filled and submitted as same as the form you will share with public.  It also has some tips to help you to do quick test.
+Clicking "Preview Form" button in toolbar can open a new window to check what your form looks like. This form can be filled and submitted as same as the form you will share with public.  Here introduces some tips that help you build and preview forms more efficiently.
 
 ![Text Preview Data](/images/page/form/preview.png)
 
 
 #### Disable Form Validation
-Normally, the form may have some validation at your submission. For example, maximum or minimum length of a input field, or numeric value is required etc. However, in multiple pages form, you may want to preview the 2nd page. In normal case, you have to fill all required data in the 1st page, click "next" to jump to 2nd page. You can turn off "Form Validation" from the top bar of preview page, so even you don't fill any data or your just filled some invalid data, you still can click "Next" button to jump to 2nd page.
+Normally, the form may run some validation at your submitting, for example, maximum or minimum length or numeric value required etc. This is good if you want to collect enough and valid data from your customers. However, this may be annoying when you preview the form. For example, if your web form has multiple steps or you want to preview PDF with some certain	 fields, you can turn off "Form Validation", so the form still can be submitted even it is invalid.
 
 
 #### Fill Sample Data
 
-In form builder, you can fill some data in preview section of field property popup. These data can be used to fill in the preview form.  For example, if you already input "John Joe"  in a text input field, at preview form, click "Fill Preview Data" button in the top function bar, the specified input field will automatically fill in "John Joe" as sample data. This can save lots of your time when you want to preview generated PDF after form submitted.
+In form builder, you can fill some data in preview section in its field properties popup. They can used both Form Preview or PDF Preview. For example, if you input "John Joe" into this text input field in its `preview section`. At web form preview page, click "Fill Preview Data" button in its top function bar, this input field will be automatically filled in "John Joe" as sample data. This can save lots of your time when you want to preview generated PDF after form submitted. In form builder page, "John Joe" is also rendered into PDF when you press `Preview PDF`.
 
-Note, not all fields can be pre-filling.  Only SingleText MultiText, Choice, Dropdown and Signature can have sample data. For File Upload or Captcha, you have to fill them for submission.
+Note, not all fields can set pre-filling data.  Only `SingleText`, `MultiText`, `Choice`, `Dropdown` and `Signature` can have sample data. For `File Upload` or `Captcha`, you always have to fill them in manually.
 
 ![Text Preview Data](/images/page/form-preview/text-preview.png)
 
 #### Preview PDF after form submitted
 
-Once you submit the form, you can check out the generated PDF by your form data. Simply click that "Preview PDF" button on top functional bar.
+Once you submit the form, you can check out the generated PDF by your form data. Simply press that "Preview PDF" button on its top functional bar.
 
 
 #### Sample and Default Option
 
-In Choice or Dropdown field, you can set the default selected value in form. It means that choice is selected once the form is loaded. The sample and default selection can be different. In below example, the above blue highlight area is default value, the left below one is sample value.
+In `Choice` or `Dropdown` field, you can set the default selected value in form. It means that choice is selected once the form is loaded. You must understand the sample selection and default selection are different thing. In below example, the above blue highlight area is default value, the left below one is sample value.
 
 ![Text Preview Data](/images/page/form/sample-default-option.png)

@@ -10,7 +10,7 @@ With format property, you can split Text Field into a few of pieces. For example
 
 In `Signle Line Text` properties popup, there is a "Format" property. Only if the text type is `Single Line Text, Date, Time or Date and Time`, you can use below rules to set up the format rule to make fine control on this field.
 
-![Text Field Format](/images/page/form/text-type.png)
+![Single line text Type](/images/page/form/text-type.png)
 
 As the example, on below screenshot, it is set to `Date` type and has `YYYY-MM-DD` as format rule. So you can see this text field are splitted into 3 smaller input fields to restrict only `YYYY-MM-DD` format date can be inputted.
 
@@ -23,7 +23,7 @@ The format rule can be categoried into 2 kinds. One is for `Text` field, the oth
 Placeholder character can be `#`(character) or `d`(digit).  
 
 
-In below example, the first format rule will split the field into 3 parts, with separator `:`.  The second example is also 3 splitted parts with `/` as separator. The third format rule is a good example for telephone number input.
+In below example, the first format rule will split the field into 3 parts with `:` as separator.  The second example is also 3 splitted parts with `/` as separator. The third format rule is a good example for telephone number input.
 
 ```
 ##:##:##
@@ -72,5 +72,10 @@ Time `hh:mm:ss`
 
 Please note, these letter are case sensitive. yyyy/mm/dd won't render correctly.
 
-For more format details, please check out [moment.js date time format](http://momentjs.com/docs/)
+We use `moment.js` to convert date and time format rule. so if you want to more flexible date and time format, check out [the date and time format paragraph in its documentation](http://momentjs.com/docs/).
 
+
+#### Separator in PDF
+In format rule property, you can change its render mode in PDF. For example, if your PDF already has ":" in a field, you can select No in "Print separator in PDF". Then the separator character won't render into PDF when PlatoForms generates it.
+
+![Separator Print Option](/images/page/form/separator-print.png)

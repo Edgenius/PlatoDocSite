@@ -3,13 +3,19 @@ title = "Form Submissions"
 +++
 
 
-After your form gets submission, you will get Email notification. You also can check out the notification form our dashboard. 
+After your form gets submission, you will get an email notification. You also can check out the notifications from our dashboard. 
 
-Submission is a more powerful place to manage the submission. You can review the submitted data, search by submitted data, download, re-generated or delete PDF. 
+`Submission Page` is a more powerful place to manage the submissions. You can
+
+* View the submitted data
+* Search by submitted data
+* Download, re-generate or delete PDF
+* Download attached files if your form has `Upload File` fields
+
 
 ![Submission](/images/page/submission/submission.png)
 
 
-At initial, you only can view the submitted time. Searching is also not enabled. Press "Edit Display Field", then you can select which field you want to display or search.
+At initial, you only can view the submitted time. Searching is also not enabled. Press "Edit Display Field", then you can select which fields you want to display or search.
 
 ![Submission](/images/page/submission/edit-display.png)
