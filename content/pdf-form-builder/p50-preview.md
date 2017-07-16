@@ -1,6 +1,6 @@
 +++
-title = "Preview Form"
-weight = 20
+title = "Form Preview"
+weight = 50
 +++
 
 Clicking "Preview Form" button in toolbar can open a new window to check what your form looks like. This form can be filled and submitted as same as the form you will share with public.  Here introduces some tips that help you build and preview forms more efficiently.

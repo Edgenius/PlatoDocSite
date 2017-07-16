@@ -1,6 +1,6 @@
 +++
-title = "Editing Options"
-weight = 10
+title = "Form Editing Options"
+weight = 20
 +++
 
 In form builder toolbar, press "Add" button, it has an `edit option` item in the popup menu. 

@@ -1,29 +1,36 @@
 +++
-title = "Text Field with Format Rule"
+title = "Text Field Properties"
 weight = 5
 +++
+
+## Text Type
+
+In `Single Line Text` properties popup, there is a "Type" dropdown. You can make this text is more specific, for example, only numeric allowed, email or date time etc.
+
+![Single line text Type](/images/page/form/text-type.png)
+
+## Format Rule
 
 {{% notice tip  %}}
 <a name="HM-EDITOR-010" class="anchor"></a>
 With format property, you can split Text Field into a few of parts. For example, you can set YYYY/MM/DD for a Date type field.
 {{% /notice %}}
 
-In `Signle Line Text` properties popup, there is a "Format" property. Only if the text type is `Single Line Text, Date, Time or Date and Time`, you can use below rules to set up the format to add fine control over this field.
+If the text type is one of `Single Line Text`, `Date`, `Time` or `Date and Time`, you can set a format rule to add fine control over this field.
 
-![Single line text Type](/images/page/form/text-type.png)
 
-As the example, on below screenshot, it is set to `Date` type and has `YYYY-MM-DD` as format rule. So you can see this text field are splitted into 3 smaller input fields to restrict only `YYYY-MM-DD` format date can be inputted.
+As the example, on below screenshot, it is set to `Date` type and has `YYYY-MM-DD` as format rule. So you can see this text field are split into 3 smaller input fields to restrict only `YYYY-MM-DD` format date can be inputted.
 
 ![Text Field Format](/images/page/form/text-format.png)
 
-The format rule can be categoried into 2 kinds. One is for `Text` field, the other is for `Date and Time` field. 
+The format rule can be categorised into 2 kinds. One is for `Text` field, the other is for `Date and Time` field. 
 
 #### Format for Text field 
 
 Placeholder character can be `#`(character) or `d`(digit).  
 
 
-In below example, the first format rule will split the field into 3 parts with `:` as separator.  The second example is also 3 splitted parts with `/` as separator. The third format rule is a good example for telephone number input.
+In below example, the first format rule will split the field into 3 parts with `:` as separator.  The second example is also 3 split parts with `/` as separator. The third format rule is a good example for telephone number input.
 
 ```
 ##:##:##
@@ -55,7 +62,7 @@ Format rule `##\###\###:##`, its separator is `#` which is escaped by `\`. Its r
 
 Format rule `##\[##\]##\*##`, its separator is `[`,  `]` and `*` and its render looks like `xx[yy]cc*dd`. 
 
-Format rule `##\\##\\##`, its spearator is `\` which is escaped by its leading `\`.
+Format rule `##\\##\\##`, its separator is `\` which is escaped by its leading `\`.
 
 
 #### Format for Date and Time field 
