@@ -1,5 +1,6 @@
 +++
 title = "Form Builder"
+description = "Form builder is core function to help you build web form and link its fields into your PDF."
 +++
 
 After you upload the PDF, you will be redirected to form builder page. By default, it has 2 panels. The left side is for your `Web Form` editing. The right panel is for your `PDF` editing. From its top function bar, you can press `Add` button to add various fields. Some fields are shared by both PDF and web form, such as Single Line Field, Choice and Signature etc. Some fields are only used for web form, such as Page Divider, Captcha and File Upload etc.

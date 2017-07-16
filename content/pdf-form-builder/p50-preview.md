@@ -1,6 +1,7 @@
 +++
 title = "Form Preview"
 weight = 50
+description = "Preview your form can check what it looks like in web page. It can test form submit and PDF generation."
 +++
 
 Clicking "Preview Form" button in toolbar can open a new window to check what your form looks like. This form can be filled and submitted as same as the form you will share with public.  Here introduces some tips that help you build and preview forms more efficiently.
