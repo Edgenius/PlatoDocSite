@@ -4,7 +4,7 @@ weight = 30
 description = "Clone help you create the form for minor PDF updates"
 +++
 
-This may be happens very often - you modified your PDF slightly, either added a new field or adjusted the layout of page. If you already created the web form for your PDF in PlatoForms, you can cope with this case in an elegant way and save your a lots of effort to build a new form from scratch.  
+This may be happens very often - you modified your PDF slightly, either added a new field or adjusted the layout of page. If you already created the web form for your PDF in PlatoForms, you can cope with this case in an elegant way and save a lots of effort without building a new form from scratch.  
 
 Go to `Dashboard`, move mouse over that old version PDF, press that `gear icon` and select "Clone Form" in its dropdown menu. In the popup dialog, you can turn off `Reuse PDF` and turn on `Reuse Widgets` then press `Clone`. 
 
