@@ -4,19 +4,16 @@ description = "Your form submissions can be used to search or view in PlatoForms
 +++
 
 
-After your form gets submission, you will get an email notification. You also can check out the notifications from our dashboard. 
+After your form gets submission, an email with the generated PDF is sent to your inbox. You also can check out the new submission notifications from our dashboard. 
 
-`Submission Page` is a more powerful place to manage the submissions. You can
+`Submissions` page is a more powerful place to manage the submissions. From there, you can
 
-* View the submitted data
-* Search by submitted data
+* View the submissions data
+* Search by submission data
+* Export all raw data in CSV format
 * Download, re-generate or delete PDF
 * Download attached files if your form has `Upload File` fields
 
 
 ![Submission](/images/page/submission/submission.png)
 
-
-At initial, you only can view the submitted time. Searching is also not enabled. Press "Edit Display Field", then you can select which fields you want to display or search.
-
-![Submission](/images/page/submission/edit-display.png)
