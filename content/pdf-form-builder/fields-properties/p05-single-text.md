@@ -20,7 +20,7 @@ With format property, you can split Text Field into a few of parts. For example,
 If the text type is one of `Single Line Text`, `Date`, `Time` or `Date and Time`, you can set a format rule to add fine control over this field.
 
 
-As the example, on below screenshot, it is set to `Date` type and has `YYYY-MM-DD` as format rule. So you can see this text field are split into 3 smaller input fields to restrict only `YYYY-MM-DD` format date can be inputted.
+As the example, on below screenshot, it is set to `Date` type and has `YYYY-MM-DD` as format rule. So you can see this text field is split into 3 smaller input fields to restrict only `YYYY-MM-DD` format date can be input.
 
 ![Text Field Format](/images/page/form/text-format.png)
 
@@ -31,7 +31,7 @@ The format rule can be categorised into 2 kinds. One is for `Text` field, the ot
 Placeholder character can be `#`(character) or `d`(digit).  
 
 
-In below example, the first format rule will split the field into 3 parts with `:` as separator.  The second example is also 3 split parts with `/` as separator. The third format rule is a good example for telephone number input.
+In below example, the first format rule will split the field into 3 parts with `:` as a separator.  The second example is also 3 split parts with `/` as a separator. The third format rule is a good example for telephone number input.
 
 ```
 ##:##:##
@@ -39,12 +39,12 @@ In below example, the first format rule will split the field into 3 parts with `
 (##) (###) (#########)
 ```
 
-Format rules `dd:dd:dd` is  the digit only with separator  `:`. 
+Format rules `dd:dd:dd` is the digit only with separator  `:`. 
 
 Format rules `##:dd:##` is the digit and text mixed with separator  `:`. 
 
 
-Generally, the input is fixed length. For example, `###:##` will be 3 characters in its first part and 2 character in its second part. You can define length range by `[m-n]` format, or `*` to indicate any length. For example, this format rule `#[0-3]:##:#*` is 3 parts,  the first part can be 0 to 3 characters, then 2 characters in the second part, and any of length of characters in last part.
+Generally, the input is fixed length. For example, `###:##` will be 3 characters in its first part and 2 characters in its second part. You can define length range by `[m-n]` format, or `*` to indicate any length. For example, this formatting rule `#[0-3]:##:#*` is 3 parts,  the first part can be 0 to 3 characters, then 2 characters in the second part, and any of length of characters in last part.
 
 **Reserved characters and escape**
 
@@ -72,7 +72,7 @@ Date `YYYY/MM/DD`
 
 Time `hh:mm:ss`
 
-Please note, these letter are case sensitive. yyyy/mm/dd won't render correctly.
+Please note, these letters are case sensitive. yyyy/mm/dd won't render correctly.
 
 We use `moment.js` to convert date and time format rule. so if you want to more flexible date and time format, check out [the date and time format paragraph in its documentation](http://momentjs.com/docs/).
 

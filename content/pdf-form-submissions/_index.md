@@ -4,7 +4,7 @@ description = "Your form submissions can be used to search or view in PlatoForms
 +++
 
 
-After your form gets submission, an email with the generated PDF is sent to your inbox. You also can check out the new submission notifications from our dashboard. 
+After your form gets a submission, an email with the generated PDF is sent to your inbox. You also can check out the new submission notifications from our dashboard. 
 
 `Submissions` page is a more powerful place to manage the submissions. From there, you can
 
