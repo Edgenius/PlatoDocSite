@@ -9,3 +9,4 @@ You can click `Preview` anytime to check out what the form looks like. It should
 
 After you complete the build, click `Publish` to get a URL or embedded script to share it. 
 
+![Online PDF Form Builder](/images/page/pfe/pfe.png)

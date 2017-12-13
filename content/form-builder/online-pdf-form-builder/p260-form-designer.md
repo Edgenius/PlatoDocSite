@@ -11,7 +11,7 @@ Any settings in this designer won't impact the PDF printing. They are only used 
 
 In `Form Preview` navigation bar, press `Design Form` button, it opens the form designer sidebar. With form designer, you can easily customise your form's look and feel. 
 
-![Form Designer](/images/page/form-preview/form-designer.png)
+![Online PDF Form Designer](/images/page/pfe/pfe-designer.png)
 
 Your change is reflecting to form preview immediately if your form has corresponding widgets. Only when you explicitly click `Apply` button, the changes are saved. Also, only when you publish this form (again), the new look-and-feel will be exposed to public users. You can `Revert` your change to last save state or `Reset to default` to restore to our default look and feel. 
 

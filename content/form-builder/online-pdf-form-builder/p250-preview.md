@@ -6,7 +6,7 @@ description = "Preview your form can check what it looks like on web page. It ca
 
 Clicking "Preview Form" button in the toolbar can open a new window to check what your form looks like. This form can be filled and submitted as same as the form you will share with the public.  Here introduce some tips that help you build and preview forms more efficiently.
 
-![Text Preview Data](/images/page/form/preview.png)
+![Online PDF Form Preview](/images/page/pfe/pfe-preview.png)
 
 
 #### Disable Form Validation
