@@ -4,7 +4,14 @@ description = "Set Domain Masking for your forms"
 weight = 200
 +++
 
+{{% notice tip  %}}
+If you only use the embedded form, it is not necessary to set custom domain.
+{{% /notice %}}
+
+
 ## Set Subdomain for your form URL 
+
+
 After you publish the form, it has a unique URL to open this form. By default, it is starting with `https://forms.platoforms.com`. In some cases, you may want to hide `platoforms.com` from your customers. You can achieve this by the domain masking configuration. 
 
 {{% notice warning  %}}
