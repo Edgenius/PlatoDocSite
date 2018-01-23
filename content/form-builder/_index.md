@@ -1,6 +1,7 @@
 +++
 title = "Form Builder"
 description = "Form builder is core function to help you build web form and link its fields into your PDF."
+weight = 50
 +++
 
 After you upload the PDF, the next page will ask what kind of form you want to build. There are 2 options: the online web form or the online PDF form. 

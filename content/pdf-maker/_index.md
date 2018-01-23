@@ -1,6 +1,7 @@
 +++
 title = "PDF Maker"
 description = "Create a PDF (Form) document from scratch."
+weight = 100
 +++
 
 The PDF Maker is an editor to create a PDF (Form) document from scratch. In top toolbar, you can add various PDF widget to the PDF page canvas. The new widget initial put on the top of the page. You can drop-and-drop it to anywhere on this page. Dragging the widget corner, you also can resize the widget. If the widget is selected, on the left side of the page, it is the properties of this fields. You can change them to your want. If there is no any selected widget,  the properties panel will display the page list of this PDF. At there, you can drag the page to re-order them. You also can delete any particular pages. 

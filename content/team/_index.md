@@ -1,6 +1,7 @@
 +++
 title = "Team"
 description = "PlatoForms uses team to collaborate your work."
+weight = 150
 +++
 
 You can invite someone to join your team. The PDF and Submissions are shared by team members (under permission controls as described below). As the sign-up user, you can join as many teams as you are invited. Press your name in the main menu, you can switch to a different team in its popup menu.

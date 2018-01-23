@@ -1,6 +1,7 @@
 +++
 title = "Form Submissions"
 description = "Your form submissions can be used to search or view in PlatoForms. You PDF can be deleted or re-generated"
+weight = 80
 +++
 
 
