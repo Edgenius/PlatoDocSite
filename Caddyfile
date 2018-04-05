@@ -1,0 +1,22 @@
+localhost
+ext    .html
+log    /tmp/access.log
+root /Users/dapeng/xdev/source/PlatoForms/PlatoDoc/public
+
+hugo   /Users/dapeng/xdev/source/PlatoForms/PlatoDoc/ /fm {
+	database "/tmp/filemanager.db"
+	scope /Users/dapeng/xdev/source/PlatoForms/PlatoDoc/content
+    locale              en
+    recaptcha_key       6Lf20AoUAAAAADn7shfqmZtRWQOCSL83qsJ28Jrq
+    recaptcha_secret    6Lf20AoUAAAAAPpfIJbGC_fVwf5RUCs9ImnSnKtj
+	noAuth: false
+	
+	log "/tmp/error.log"
+	allowCommands  true
+	allowEdit true
+	allowNew true
+	commands:
+        - git
+        - ls
+}
+
