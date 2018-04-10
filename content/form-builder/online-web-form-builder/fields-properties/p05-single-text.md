@@ -1,6 +1,6 @@
 +++
 title = "Text Field Properties"
-weight = 5
+weight = 305
 description = "Text accepts various format text and render them as text in your PDF."
 +++
 

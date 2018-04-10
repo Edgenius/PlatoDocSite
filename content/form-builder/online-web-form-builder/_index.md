@@ -1,6 +1,7 @@
 +++
 title = "Online Web Form Builder"
 description = "Online Form builder is core function to help you make your PDF fillable and publish it online."
+weight = 4
 +++
 
 If you choose build a online web form, you will be redirected to a form builder with 2 panels. The left side is for your `Web Form` editing. The right panel is for your `PDF` editing. From its top function bar, you can press `Add` button to add various fields. Some fields are shared by both PDF and web form, such as Single Line Field, Choice and Signature etc. Some fields are only used for the web form, such as Page Divider, Captcha and File Upload etc.

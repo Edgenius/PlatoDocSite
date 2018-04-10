@@ -1,7 +1,7 @@
 +++
 title = "Form Submissions"
 description = "Your form submissions can be used to search or view in PlatoForms. You PDF can be deleted or re-generated"
-weight = 80
+weight = 4
 +++
 
 
@@ -10,9 +10,11 @@ After your form gets a submission, an email with the generated PDF is sent to yo
 `Submissions` page is a more powerful place to manage the submissions. From there, you can
 
 * View the submissions data
+* View workflow progress and submissions
 * Search by submission data
 * Export all raw data in CSV format
 * Download, re-generate or delete PDF
+* Look up the submission revisions
 * Download attached files if your form has `Upload File` fields
 
 

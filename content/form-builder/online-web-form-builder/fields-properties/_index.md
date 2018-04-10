@@ -1,6 +1,6 @@
 +++
 title = "Field Properties"
-weight = 3
+weight = 400
 description = "Field properties in PDF form builder is used to manage field behaviour in your web form and PDF"
 +++
 

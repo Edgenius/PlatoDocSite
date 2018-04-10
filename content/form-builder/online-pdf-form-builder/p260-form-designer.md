@@ -1,6 +1,6 @@
 +++
 title = "Form Designer"
-weight = 60
+weight = 64
 description = "Customise your form's look and feel"
 +++
 {{% notice tip  %}}

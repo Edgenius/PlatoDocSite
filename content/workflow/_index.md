@@ -1,7 +1,7 @@
 +++
 title = "Workflow"
 description = "Workflow"
-weight = 200
+weight = 2
 +++
 
 {{% notice tip  %}}

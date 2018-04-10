@@ -1,7 +1,7 @@
 +++
 title = "Form Builder"
 description = "Form builder is core function to help you build web form and link its fields into your PDF."
-weight = 50
+weight = 1
 +++
 
 PlatoForms can build 3 kinds of forms.  `Online Web Form`, `Online PDF Form` and `Master Form`. On our dashboard main menu, pressing that big purple **Start to Build** button, it pops up a small menu. The first menu item *Create Online Form for an Existing PDF* is the entry to build `Online Web Form` or `Online PDF Form`. The second menu item *Create Master Form for Multiple PDFs* is for building a `Master Form` . 

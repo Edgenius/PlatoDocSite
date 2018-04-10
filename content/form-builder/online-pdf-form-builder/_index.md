@@ -1,6 +1,7 @@
 +++
 title = "Online PDF Form Builder"
 description = "Online Form builder is core function to help you make your PDF fillable and publish it online."
+weight = 6
 +++
 
 If you choose Online PDF Form, it will redirect to a form builder that displays the PDF pages. You can pick up the input elements from the top functions bar and drag it to the place you want to fill in. The input elements can be a text input, checkbox, dropdown, image, or a signature.  

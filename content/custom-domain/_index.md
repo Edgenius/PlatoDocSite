@@ -1,7 +1,7 @@
 +++
 title = "Custom Domain"
 description = "Set Domain Masking for your forms"
-weight = 300
+weight = 6
 +++
 
 {{% notice tip  %}}

@@ -1,6 +1,6 @@
 +++
 title = "Form Preview"
-weight = 50
+weight = 44
 description = "Preview your form can check what it looks like on web page. It can test form submit and PDF generation."
 +++
 

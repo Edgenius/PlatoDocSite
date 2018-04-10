@@ -1,6 +1,6 @@
 +++
 title = "Choice Properties"
-weight = 10
+weight = 310
 description = "Form choice is rendered tick or cross sign in your PDF."
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = "Form Editing Options"
-weight = 20
+weight = 40
 description = "Web Form builder has editing options to help you build form more efficiently"
 +++
 
