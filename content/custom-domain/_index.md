@@ -22,7 +22,7 @@ The first step is login our dashboard, go to `settings` page (under the avatar a
 
 ![Settings](/images/page/domains/setting.png)
 
-As the example, here uses Godday as your domain registrar. Log into Godaddy, goes to DNS management from it domain manage panel, then click "Add".  At `Type` field, choose `CNAME`, input the subdomain name (exclude your root domain) i.e, `myform` as `Host` value.  At `Points to`, input our CNAME value, i.e., `myform.foo.com.dns.platoforms.com`.  Save and exit.  Note, this CNAME change could take up-to-24 hours to broadcast over the Internet. 
+As the example here uses Godday as your domain registrar. Log into Godaddy, goes to DNS management from it domain manage panel, then click "Add".  At `Type` field, choose `CNAME`, input the subdomain name (exclude your root domain) i.e, `myform` as `Host` value.  At `Points to`, input our CNAME value, i.e., `myform.foo.com.dns.platoforms.com`.  Save and exit.  Note, this CNAME change could take up-to-24 hours to broadcast over the Internet. 
 
 ![Godaddy CNAME](/images/page/domains/cname.png)
 
@@ -43,7 +43,7 @@ Once the custom domain set up successfully, the form URL returned from our API w
 ## Convention
 
 #### URL
-Even you setup the custom domain, you still can open the form by our URL.  You just manually replace `https://myform.yourdomainhere.com/form/` with our form domain URL "https://form.platoforms.com".  Please be careful, in your custom domain URL, it has `/form` in the middle of URL, but ours doesn't have.  For example, `https://myform.yourdomainhere.com/form/fr1srsswes` will be `https://form.platoforms.com/fr1srsswes`. 
+Even you set up the custom domain, you still can open the form by our URL.  You just manually replace `https://myform.yourdomainhere.com/form/` with our form domain URL "https://form.platoforms.com".  Please be careful, in your custom domain URL, it has `/form` in the middle of URL, but ours doesn't have.  For example, `https://myform.yourdomainhere.com/form/fr1srsswes` will be `https://form.platoforms.com/fr1srsswes`. 
 
 
 #### CNAME Value
