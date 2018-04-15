@@ -4,14 +4,16 @@ description = "Workflow Step Settings"
 weight = 200
 +++
 
-The working flow step settings are used for PDF creation and form display after the first step.
+Except first step, the workflow step has some settings to make you control how to display the form, create the PDF and so on.
+
+![Workflow Step Settings](/images/page/workflow/workflow-step-settings.png)
 
 {{% notice tip  %}}
 <a name="HM-WORKFLOW-010" class="anchor"></a>
 This form submission will print on the PDF that is created in last step. 
 {{% /notice %}}
 
-As an example, the first step is customer filled information. In this PDF, you also need to put your signature to approve the deal. With this option, the final PDF will combine the customer's information and your signature.  Note, our system doesn't check if this step is using the same PDF with the previous step. 
+As an example, the first step is customer filled information. In this PDF, you also need to put the manager's signature. With this option, the final PDF will combine the customer's information and the signature.  Note, our system doesn't check if this step is using the same PDF with the previous step. 
 
 {{% notice tip  %}}
 <a name="HM-WORKFLOW-015" class="anchor"></a>
