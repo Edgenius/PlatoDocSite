@@ -51,3 +51,13 @@ Even you set up the custom domain, you still can open the form by our URL.  You 
 Our CNAME value is always in `your-subdomain.dns.platoforms.com` format, i.e., suffix with `.dns.platoforms.com`.  This means you even can setup CNAME before our custom domain setting. 
 
 
+### FAQ
+
+**My website is www.foo.com. So is my CNAME www.dns.platoforms.com?**
+
+Generally, it is NO. CNAME you can use for PlatoForms must bre a subdomain that is not occupied. `www` is already pointing to your website, so please choose another one, say 'myforms' or 'forms' etc. Except you want to use our form as your website home page.
+
+
+
+
+
