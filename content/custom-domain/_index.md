@@ -75,4 +75,10 @@ The CNAME value always follows the same format:
 
 This allows you to setup CNAME before the custom domain is set.
 
+## FAQ
 
+**My website is www.foo.com. Is my CNAME `www.foo.com.dns.platoforms.com`?**
+
+In most cases, no. The CNAME you use for PlatoForms must be unoccupied. If your root domain (www.foo.com) is already pointing to your website, it cannot be used for your forms, too. We suggest you create a subdomain that is unique to your forms; for example, myforms.foo.com. Your website host can help you with this.
+
+However, if your root URL (www.foo.com) is being used solely for forms, then, yes, you can use it for PlatoForms.

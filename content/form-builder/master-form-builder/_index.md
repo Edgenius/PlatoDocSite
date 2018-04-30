@@ -42,7 +42,9 @@ When you add a field, its widget will appear in the *Form Widget List*. You can 
 
 Preview your form at any time using the *Preview Form* button in the top *Toolbar*. 
 
-<div class="notices tip" >We recommend adding some sample data to your form before previewing. This way the form is rendered with data.</tip>
+{{% notice tip  %}}
+We recommend adding some sample data to your form before previewing. This way the form is rendered with data.
+{{% /notice %}}
 
 ### Publishing Your Form
 

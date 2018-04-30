@@ -13,6 +13,7 @@ In the *Text Input* field's properties panel, you can specify the type of text y
 There are seven text types:
 
 * Single Line Text
+* Multiple Lines Text
 * Numbers
 * Email
 * URL
@@ -20,13 +21,7 @@ There are seven text types:
 * Time
 * Date and Time
 
-
-
 ![text-field-properties](/images/text-field-properties.png)
-
-
-
-
 
 ## Format Rule
 
@@ -42,11 +37,7 @@ The format rule is available for *Single Line Text*, *Date*, *Time*, and *Date a
 
 In the below example, you can see the text type is *Date*, and it has the format rule applied; YYYY-MM-DD. In the form preview, you can see that three small input boxes are available for each division of the format rule.
 
-
-
 ![format-rule](/images/format-rule.png)
-
-
 
 ### Formatting a Text Field
 

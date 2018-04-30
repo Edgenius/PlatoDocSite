@@ -12,8 +12,6 @@ The online web form builder has two panels:
 
 * **Right side:** for editing your PDF.
 
-  ​
-
 ## Building Your Form
 
 Get started building your form. 
@@ -44,11 +42,7 @@ When you add a field, its widget will appear in the panels below. If the field i
 
 If your PDF has multiple pages, you can switch between each page with the *Page Toggle* at the top of the *PDF* panel—it looks like this:
 
-
-
 ![switch-pages](/images/switch-pages.PNG)
-
-
 
 
 
@@ -56,8 +50,8 @@ If your PDF has multiple pages, you can switch between each page with the *Page 
 
 Preview your form or PDF at any time using the *Preview Form* and *Preview PDF* buttons in the top *Toolbar*.
 
-<div class="notices tip" >We recommend adding some sample data to your PDF before previewing. This way the PDF is rendered with data.</tip>
-
-
+{{% notice tip  %}}
+We recommend adding some sample data to your PDF before previewing. This way the PDF is rendered with data.
+{{% /notice %}}
 
 ![online-form-builder](/images/online-form-builder.PNG)
