@@ -1,10 +1,8 @@
 +++
-title = "Team"
-description = "Create forms together. PlatoForms allows you to set up your team just the way you want it."
+title = "TEAM"
+description = "Create forms together. PlatoForms allows you to set up your team just the way you want it. "
 weight = 5
 +++
-
-# TEAM
 
 ![team](/images/team.PNG)
 

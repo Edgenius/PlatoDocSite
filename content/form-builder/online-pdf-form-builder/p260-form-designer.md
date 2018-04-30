@@ -1,20 +1,17 @@
 +++
-title = "Form Designer"
+title = "FORM DESIGNER"
 weight = 64
-description = "Customise your form's look and feel"
+description = "Use the PlatoForms form designer to customise the look and feel of your PDF Online Form."
 +++
 {{% notice tip  %}}
 <a name="HM-DESIGNER2-210" class="anchor"></a>
-Any settings in this designer won't impact the PDF printing. They are only used to control the online PDF form looks-and-feels. 
+The designer is used to adjust the look and feel of the online PDF form. Any changes you make will not affect the printed PDF form.
 {{% /notice %}}
 
-
-# FORM DESIGNER
 
 In the *Form Preview* toolbar, click *Design Form* to open the *Form Designer* side panel. Use the form designer to customise the look and feel of your form.
 
 ***Please Note:*** Design settings set in the designer only affect the Online PDF Form, and not printed PDFs.
-
 
 
 ![pfe-designer](/images/pfe-designer.png)
@@ -37,6 +34,11 @@ On the Form Designer, click the CSS tab, and add your CSS styles to the text box
 
 
 #### Controls of the Form Designer
+
+{{% notice tip  %}}
+<a name="HM-DESIGNER2-215" class="anchor"></a>
+When you embed a form on your website, the form's submission bar always appears at the bottom of the PDF page.
+{{% /notice %}}
 
 The following controls are used for designing your form.
 

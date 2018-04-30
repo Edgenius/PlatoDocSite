@@ -1,13 +1,10 @@
 +++
-title = "Form Designer"
+title = "FORM DESIGNER"
 weight = 46
-description = "Use the PlatoForms form designer to customise the look and feel of your web form. "
+description = "Use the PlatoForms form designer to customise the look and feel of your web form."
 +++
 
-# FORM DESIGNER
-
 In the *Form Preview* toolbar, click *Design Form* to open the *Form Designer* side panel. Use the form designer to customise the look and feel of your form.
-
 
 
 ![form-designer-sidebar](/images/form-designer-sidebar.png)

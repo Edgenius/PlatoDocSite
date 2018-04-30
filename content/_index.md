@@ -1,7 +1,8 @@
 +++
-title = "Home of PlatoForms Documentation"
+title = "PlatoForms Documentation Center"
 description = "With PlatoForms creating forms is easy and fun. Don't spend time working with long and confusing PDF forms, let us do the hard work for you." 
 +++
+
 #  PlatoForms' Documentation
 
 **Hi there!** Welcome to our documentation center.

@@ -1,17 +1,12 @@
 +++
-title = "Custom Domain"
+title = "CUSTOM DOMAIN"
 description = "Learn how to use your custom domain with PlatoForms. Let your forms speak for your brand."
 weight = 6
 +++
 
 {{% notice tip  %}}
-If you only use the embedded form, it is not necessary to set custom domain.
+If you're using our embedded forms, there is no need to set up a custom domain.
 {{% /notice %}}
-
-# CUSTOM DOMAIN
-
-<div class="notices tip"><p>If you're using our embedded forms, there is no need to set up a custom domain.</p>
-</div>
 
 ## Setting a Subdomain For Your Form URL
 
