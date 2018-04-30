@@ -13,6 +13,7 @@ Learn to export your submissions from the *submissions panel*.
 The file downloads as a zip file. If your form has multiple revisions, the file will include a different CSV for each revision.
 
 The CSV file includes:
+
 * All form data
 * The generated PDF URL
 * Submission date

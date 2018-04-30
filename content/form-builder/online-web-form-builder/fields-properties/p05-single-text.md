@@ -6,7 +6,7 @@ description = "Customise your text fields with PlatoForms Text Field Properties.
 
 Use this section to learn how to customise your text fields.
 
-## Text Type
+## Text Type
 
 In the *Text Input* field's properties panel, you can specify the type of text your users can input. To switch the text type, use the *toggle switch* in the top left. 
 

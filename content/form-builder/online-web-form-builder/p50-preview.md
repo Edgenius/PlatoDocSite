@@ -14,8 +14,6 @@ You can preview your form at any time by clicking *Preview Form* in the *Tools* 
 
 The form previews are fully functioning; you can **fill them out** and **submit them** in the same way as a published form.
 
-#### The Form Preview
-
 ![form-preview](/images/form-preview.png)
 
 

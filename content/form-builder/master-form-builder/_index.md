@@ -52,18 +52,14 @@ Once you've finished building the form, Click *Publish* in the top left *Toolbar
 
 
 
-##  Step 2: Uploading Your PDFs
+## Step 2: Uploading Your PDFs
 
 Once you've completed the *Master Form*, it's time to upload your PDFs as *linked forms*. Use the below steps and image to guide you.
 
 1. Click *Link* on the form you wish to add a PDF to.
 2. Click *Link New PDF*, and upload the PDF.
 
-
-
 ![link-pdf](/images/link-pdf.png)
-
-
 
 ## Step 3: Editing Your Linked Form
 
@@ -74,30 +70,24 @@ The *Linked Form Editor* consists of two panels:
 
 
 - **Right Panel**
-
   Displays the PDF form and any fields (corresponding widgets) you add to it. 
 
   ​
-
 ### Adding a Field to the PDF
 
 Add a field to your PDF (in the right panel):
 
 1. **Hover over the widget in the left panel**
-2. **Click *Add to PDF***
+2. **Click `Add to PDF`**
    The field appears at the top of the PDF (right panel)
 3. **Drag and Drop the field to the correct position on your PDF**
 
 ***Please Note:*** Only Text, Choice, Dropdown, and Signature can be added to a PDF form. 
 
 
-
 ![linked-form-editor-annotated](/images/linked-form-editor-annotated.png)
 
-
-
 ***Hint:*** Widgets can be added to a PDF multiple times; for example, if your PDF requires a personal signature on every page, add the same signature widget to each page. When the final PDF is generated, it will contain the same signature on every page.
-
 
 
 ### Step 4: Publishing Your Form

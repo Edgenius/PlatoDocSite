@@ -7,8 +7,11 @@ description = "Easily duplicate your forms with PlatoForms. There's no need to s
 There's no need to spend time rebuilding the same form with a few minor modifications. In a few clicks, you can **duplicate a form** and make the changes you require.
 
 **Creating a duplicate form:**
+
 **Step 1:** Log in to your *dashboard*.
+
 **Step 2:** Click the *gear* icon in the top right of the form you want to clone.
+
 **Step 3:** Select *Clone Form*.
 
 ![clone-form](/images/clone-form.png)
@@ -29,14 +32,15 @@ There's no need to spend time rebuilding the same form with a few minor modifica
 
 **Step 5:** 
 
-1. **Reuse PDF file = On | Reuse Form widgets = Off**
+- **Reuse PDF file = On | Reuse Form widgets = Off**
 
    Reuse the same PDF as before. None of the original widgets are duplicated so you can start over with adding and mapping your widgets.
 
-2. **Reuse PDF file = Off | Reuse Form widgets = On** 
+- **Reuse PDF file = Off | Reuse Form widgets = On** 
+
    Upload the new PDF version. Once the upload completes, the form builder opens displaying all the previous version's widgets. The widgets are located in same positions as before, but you can move them around and edit them if you wish.
 
-3. **Reuse PDF file = On | Reuse Form widgets = On**
+- **Reuse PDF file = On | Reuse Form widgets = On**
 
    Make small changes to a new web form, using the same PDF.
 

@@ -16,7 +16,9 @@ For example, imagine a *Car Sales Form* containing three-steps, one step each fo
 **The steps of the example sales process:**
 
 **Step 1:** The buyer of the car fills in their personal information.
+
 **Step 2:** The salesperson fills in details about the car.
+
 **Step 3:**  The sales manager signs-off the form to complete the sale.
 
 After each step, a notification is automatically sent to the next person in the process until the form is complete. In many cases, each step is part of the same PDF (the sales form). Finally, when each step is complete, the form is assembled into one PDF file.

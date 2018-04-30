@@ -22,7 +22,7 @@ This form submission will print on the PDF that is created in the last step.
 
   For example, in step one a customer enters their personal information; but on this page of the PDF, we also need the sales manager's signature—this is Step 3. By enabling this option, the PDF will merge both steps onto the same page, showing both the customer's information and the manager's signature on the final generated PDF.
 
-  ​
+
 - **Use previously created PDF as current form template**
 
 
