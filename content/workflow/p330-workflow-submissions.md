@@ -1,6 +1,6 @@
 +++
 title = "WORKFLOW SUBMISSIONS"
-description = "Keep track of your workflow submissions. PlatoForms allows you to manage and view submitted workflows."
+description = "Workflow forms have multiple steps, and PlatoForms gives your the power to monitor them."
 weight = 400
 +++
 

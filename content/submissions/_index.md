@@ -1,11 +1,8 @@
 +++
-title = "Form Submissions"
+title = "FORM SUBMISSIONS"
 description = "Keep track of your form submissions. PlatoForms allows you to manage and view submitted forms."
 weight = 4
 +++
-
-
-# FORM SUBMISSIONS
 
 Once a user fills in and submits a form, an email with the generated PDF is sent to your inbox. You will also get a new submission notification in your PlatoForms dashboard.
 

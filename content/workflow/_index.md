@@ -6,7 +6,7 @@ weight = 2
 
 {{% notice tip  %}}
 <a name="HM-WORKFLOW-100" class="anchor"></a>
-In a workflow, the PDF can be filled out in multiple steps. 
+In a workflow, the PDF can be filled out in multiple steps by various users.
 {{% /notice %}}
 
 Workflows are used to add **process steps** to the completion of a PDF. 

@@ -1,9 +1,8 @@
 +++
-title = "Export Form Submissions"
+title = "EXPORT FORM SUBMISSIONS"
 weight = 42
 description = "With PlatoForms you can quickly export all your submitted forms into a CSV file."
 +++
-# EXPORT FORM SUBMISSIONS
 
 Learn to export your submissions from the *submissions panel*.
 

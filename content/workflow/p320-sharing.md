@@ -30,5 +30,10 @@ There are three statuses for a workflow:
 
   A workflow becomes broken when one or more forms in the form archive are archived, deleted, or sharing is stopped. To fix a broken form, make sure all forms are in published status.
 
+{{% notice tip  %}}
+<a name="HM-WORKFLOW-200" class="anchor"></a>
+This URL is essential to link each step of a workflow. The address is provided in all notification emails and on the Submissions page.
+{{% /notice %}}
+
 ***Please Note:*** If you want to embed your workflow in a web page, set up a *Page URL* in the forms *sharing dialogue* (embedded sharing tab). To use the step-by-step process of a workflow, it is essential you set up the correct URL. It is used in all notification emails and also the submissions page.
 
