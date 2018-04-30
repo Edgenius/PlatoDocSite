@@ -11,7 +11,7 @@ To access the form editing options, click the ***+Add*** button in the *Tools* m
 
 
 
-![edit-options](/images/edit-options.PNG)
+![edit-options](/images/edit-options.png)
 
 
 

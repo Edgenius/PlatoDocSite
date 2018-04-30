@@ -21,7 +21,7 @@ The CSV file includes:
 
 
 
-![export](/images/export.PNG)
+![export](/images/export.png)
 
 
 

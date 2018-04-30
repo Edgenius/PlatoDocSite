@@ -42,7 +42,7 @@ When you add a field, its widget will appear in the panels below. If the field i
 
 If your PDF has multiple pages, you can switch between each page with the *Page Toggle* at the top of the *PDF* panel—it looks like this:
 
-![switch-pages](/images/switch-pages.PNG)
+![switch-pages](/images/switch-pages.png)
 
 
 
@@ -54,4 +54,4 @@ Preview your form or PDF at any time using the *Preview Form* and *Preview PDF* 
 We recommend adding some sample data to your PDF before previewing. This way the PDF is rendered with data.
 {{% /notice %}}
 
-![online-form-builder](/images/online-form-builder.PNG)
+![online-form-builder](/images/online-form-builder.png)

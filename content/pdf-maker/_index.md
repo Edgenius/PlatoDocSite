@@ -45,5 +45,5 @@ You can convert a PDF to an online form at any time. Each time, you will be aske
 
 
 
-![pdfmaker](/images/pdfmaker.PNG)
+![pdfmaker](/images/pdfmaker.png)
 

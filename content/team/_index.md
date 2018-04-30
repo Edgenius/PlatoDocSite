@@ -4,7 +4,7 @@ description = "Create forms together. PlatoForms allows you to set up your team 
 weight = 5
 +++
 
-![team](/images/team.PNG)
+![team](/images/team.png)
 
 
 
@@ -30,4 +30,4 @@ You can manage team member permissions for every PDF. Select who is the *Form Ed
 
 
 
-![permission](/images/permission.PNG)
+![permission](/images/permission.png)

@@ -23,7 +23,7 @@ All published forms have a unique URL for access. By default, these begin with `
 
 
 
-![setting](/images/setting.PNG)
+![setting](/images/setting.png)
 
 
 
@@ -39,7 +39,7 @@ CNAME changes can take between 24- and 48-hours to take effect.
 
 
 
-![cname](/images/cname.PNG)
+![cname](/images/cname.png)
 
 
 

@@ -19,4 +19,4 @@ Manage your submissions from the *Submissions* page. From there, you can:
 
 
 
-![submission](/images/submission.PNG)
+![submission](/images/submission.png)
