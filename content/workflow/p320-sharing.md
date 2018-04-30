@@ -1,9 +1,8 @@
 +++
-title = "Sharing Workflow"
-description = "Sharing Workflow"
+title = "SHARING YOUR WORKFLOW"
+description = "Share your form with the world. PlatoForms allows you to share your form with the right people, or even embed it on your website."
 weight = 300
 +++
-# SHARING YOUR WORKFLOW
 
 Once you have designed the workflow, you need to publish it and then share it or embed it to your website.
 

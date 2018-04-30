@@ -1,6 +1,6 @@
 +++
-title = "Workflow"
-description = "Share your form with the world. PlatoForms allows you to share your form with the right people, or even embed it on your website."
+title = "WORKFLOW"
+description = "Add process steps to your forms. With PlatoForms you can include various people in the process by adding multiple steps to a form."
 weight = 2
 +++
 
@@ -8,8 +8,6 @@ weight = 2
 <a name="HM-WORKFLOW-100" class="anchor"></a>
 In a workflow, the PDF can be filled out in multiple steps. 
 {{% /notice %}}
-
-# WORKFLOW
 
 Workflows are used to add **process steps** to the completion of a PDF. 
 
