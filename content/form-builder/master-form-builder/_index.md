@@ -1,10 +1,8 @@
 +++
-title = "Master Form Builder"
+title = "MASTER FORM BUILDER"
 description = "With a master form you can link multiple different PDF forms. With PlatoForms creating a master form is simple."
 weight = 8
 +++
-
-# MASTER FORM BUILDER
 
 When building a master form, you don't need to upload a PDF beforehand. Click *Create Master For Multiple PDFs*, and you'll arrive at the *Form Builder*. On the form builder, there are three main sections:
 

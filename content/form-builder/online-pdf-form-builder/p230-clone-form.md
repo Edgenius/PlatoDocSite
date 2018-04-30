@@ -1,10 +1,8 @@
 +++
-title = "Clone the Form"
+title = "CLONE THE FORM"
 weight = 30
-description = "Clone help you create the form for minor PDF updates"
+description = "Easily duplicate your forms with PlatoForms. There's no need to spend time rebuilding the same form with a few minor modifications."
 +++
-
-# CLONE THE FORM
 
 There's no need to spend time rebuilding the same form with a few minor modifications. In a few clicks, you can **duplicate a form** and make the changes you require.
 

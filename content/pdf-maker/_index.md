@@ -1,9 +1,8 @@
 +++
-title = "PDF Maker"
+title = "PDF MAKER"
 description = "Create a PDF form from scratch. With our PlatoForms PDF maker, it’s easy and fun."
 weight = 3
 +++
-# PDF MAKER
 
 Use the PDF Maker to create a PDF form from scratch. 
 

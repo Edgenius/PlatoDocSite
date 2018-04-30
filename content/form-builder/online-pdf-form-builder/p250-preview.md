@@ -1,10 +1,8 @@
 +++
-title = "Form Preview"
+title = "PDF FORM PREVIEW"
 weight = 50
-description = "Preview the progress of your web form at any time. PlatoForms makes building web forms easy."
+description = "Preview the progress of your PDF form at any time. PlatoForms makes building PDF forms easy."
 +++
-
-# PDF FORM PREVIEW
 
 You can preview your PDF form at any time by clicking *Preview Form* in the *Tools* menu. 
 

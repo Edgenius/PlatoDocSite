@@ -1,10 +1,8 @@
 +++
-title = "Online PDF Form Builder"
+title = "ONLINE PDF FORM BUILDER"
 description = "Build online PDF Forms quickly and easily with PlatoForms Form Builder."
 weight = 6
 +++
-
-# ONLINE PDF FORM BUILDER
 
 If you select to build an Online PDF Form, you'll be redirected to the form builder displaying your PDF pages.
 
