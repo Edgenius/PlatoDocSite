@@ -1,22 +1,25 @@
 +++
 title = "Form Submissions"
-description = "Your form submissions can be used to search or view in PlatoForms. You PDF can be deleted or re-generated"
+description = "Keep track of your form submissions. PlatoForms allows you to manage and view submitted forms."
 weight = 4
 +++
 
 
-After your form gets a submission, an email with the generated PDF is sent to your inbox. You also can check out the new submission notifications from our dashboard. 
+# FORM SUBMISSIONS
 
-`Submissions` page is a more powerful place to manage the submissions. From there, you can
+Once a user fills in and submits a form, an email with the generated PDF is sent to your inbox. You will also get a new submission notification in your PlatoForms dashboard.
 
-* View the submissions data
+Manage your submissions from the *Submissions* page. From there, you can:
+
+* View submissions data
 * View workflow progress and submissions
 * Search by submission data
 * Export all raw data in CSV format
-* Download, re-generate or delete PDF
-* Look up the submission revisions
-* Download attached files if your form has `Upload File` fields
+* Download, re-generate or delete a PDF
+* Look-up any submission revisions
+* Download attached files (if your form has any Upload File fields)
 
 
-![Submission](/images/page/submission/submission.png)
 
+
+![submission](http://clients.typecast.io/PlatoForms/imgs/submission.PNG)

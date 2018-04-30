@@ -1,14 +1,22 @@
 +++
 title = "Display Search Submissions"
 weight = 20
-description = "Customise what form fields are searchable or displayable"
+description = "Change the way you view your form submissions with PlatoForms."
 +++
 
 
-At initial, it only shows the submitted time and uploaded files (if the form has upload fields). Searching is also not enabled by default. Press "Edit Display Field", you can select which fields are shown up or searchable.
+# DISPLAY SEARCH SUBMISSIONS
 
-![Submission](/images/page/submission/edit-display.png)
+At first, the *Submissions* display only shows the submission time and uploaded files. Searching is **not enabled** by default. Click *Edit Display Field* to select which fields are visible and searchable.
 
-To make the submission table more clearly,  you can change the label name in the table header. 
 
-![Change Submission Field Name](/images/page/submission/submission-field-label.png)
+
+![edit-display](http://clients.typecast.io/PlatoForms/imgs/edit-display.PNG)
+
+
+
+You can customize the submission table by changing the *label name* in the table header.
+
+![submission-field-label](http://clients.typecast.io/PlatoForms/imgs/submission-field-label.PNG)
+
+

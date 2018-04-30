@@ -1,15 +1,35 @@
 +++
 title = "Form Editing Options"
 weight = 40
-description = "Web Form builder has editing options to help you build form more efficiently"
+description = "PlatoForms gives you full control over the way you edit and build your PDF forms. "
 +++
 
-In form builder toolbar, press "Add" button, it has an `edit option` item in the popup menu. 
+# FORM EDITING OPTIONS
 
-#### Reset Editor
+To access the form editing options, click the ***+Add*** button in the *Tools* menu, then select *Edit Options* from the drop-down menu.
 
-<a name="HM-EDITOR-100" class="anchor"></a>
-Reset form erases all form fields you have added. If some fields are parsed from the PDF, "Reset to Initial Form" restores to these fields.
+## Edit Options Pop-Up
 
 
-![Editor Options](/images/page/form/editor-options.png)
+
+![edit-options](http://clients.typecast.io/PlatoForms/imgs/edit-options.PNG)
+
+
+
+#### Editing
+
+This feature allows you to open the PDF editing tools by double-clicking on a field. To turn on, select the *checkbox*, and click *Ok*.
+
+#### Reset Editing
+
+In this section, there are two options:
+
+* **Reset to Empty Form** 
+  Erases all form fields you have added. 
+* **Reset to Initial Form**
+  Restores any fields parsed from the PDF.
+
+Select the option you want and click *Reset*. You will then be asked to confirm this action. Click *Confirm* to continue.
+
+
+

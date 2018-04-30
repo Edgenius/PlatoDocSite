@@ -1,11 +1,35 @@
 +++
 title = "Choice Properties"
 weight = 310
-description = "Form choice is rendered tick or cross sign in your PDF."
+description = "Add a choice field to your forms. Use the PlatoForms choice properties to allow the user to pick one or multiple options."
 +++
 
-## Multiple or Single Choice
+# CHOICE PROPERTIES
 
-In choice properties, you can decide your user is able to choose one or multiple options. For single choice, it normally knows as `Radio buttons` in your form which only allows one selection. For multiple choices, it knows as `Checkboxes` which allows multiple selections. You also can turn on an `Other Option` to allow user input some text. When the submission is generated in PDF, those selected options are rendered to a `tick` or `cross` sign. The other option text is rendered as text if its option is marked as selected.
+### Multiple or Single Choice
 
-![Choice Properties](/images/page/form/choice.png)
+Use the choice properties to allow the user to pick **one or multiple options**.
+
+- **One Choice**
+  By default, the user can only select one option. This is ideal for agreeing to a policy or Terms and Conditions.
+
+
+- **Multiple Choice**
+  Turn this on to allow multiple options. For example, selecting the colour of a product.
+
+
+- **Other** 
+  Turn on the other option to let the user enter custom text.
+
+Additional fields:
+
+- **Choice Label**
+  The text defining the choice. For example, ***Yes*** or ***No***.
+
+
+- **Tick Format**
+  Use the Tick Format section to select whether to use a tick (check) or a cross when the submitted PDF is generated. 
+
+
+
+![choices](http://clients.typecast.io/PlatoForms/imgs/choices.png)

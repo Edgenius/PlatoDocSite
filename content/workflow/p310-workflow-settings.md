@@ -1,7 +1,7 @@
 +++
 title = "Workflow Step Settings"
 description = "Workflow Step Settings"
-weight = 200
+weight = 208
 +++
 
 Except first step, the workflow step has some settings to make you control how to display the form, create the PDF and so on.

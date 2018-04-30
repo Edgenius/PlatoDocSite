@@ -1,31 +1,53 @@
 +++
 title = "Form Builder"
-description = "Form builder is core function to help you build web form and link its fields into your PDF."
+description = "With PlatoForms you can build three types of forms: online web forms, online PDF forms, and master forms. "
 weight = 1
 +++
 
-PlatoForms can build 3 kinds of forms.  `Online Web Form`, `Online PDF Form` and `Master Form`. On our dashboard main menu, pressing that big purple **Start to Build** button, it pops up a small menu. The first menu item *Create Online Form for an Existing PDF* is the entry to build `Online Web Form` or `Online PDF Form`. The second menu item *Create Master Form for Multiple PDFs* is for building a `Master Form`. 
+# FORM BUILDER
 
-![Start From Build](/images/page/form/start-to-build.png)
+With PlatoForms you can build three types of forms: **online web forms**, **online PDF forms**, and **master forms**. 
 
+### Let's get started:
 
-Clicking the first menu item, it asks you to upload a PDF. After that, the next page asks what kind of form you want to build, i.e, `Online Web Form` or `Online PDF Form`. Here is this form type picker page looks like:
+**Step 1:** Click the purple *Start to build* button in the left column of the dashboard.
 
-![Form Type Picker](/images/page/form/form-type-picker.png)
+**Step 2:** The pop-up menu gives you three options:
 
-
-#### Online Web Form
-It transforms your PDF form into a web form that is easy for everyone to fill out. It is compatible with all web browsers, provides great mobile experience and fast page loading. 
-It will take more effort to build the form because you have to cover the web form and PDF fields’ mappings.
-
-
-#### Online PDF Form
-It is easy to build, keeps all the details from your original PDF, and is suitable for any complex PDF form. 
-This form is only compatible with the latest web browsers, like Chrome, Firefox, Opera, Safari or Edge, but not IE. Its page loading speed could be slightly slower if your PDF has many images.
+1. **Create Online Form for an Existing PDF**
+   Use this option to build an online web form or an online PDF form using an existing PDF. 
+2. **Create Master Form for Multiple PDFs**
+   Use this to create a master form to generate multiple PDFs.
+3. **Create PDF Form from Scratch**
+   Use this to begin creating a PDF form—even if you don't have one to convert.
 
 
-Pressing on *Create Master Form for Multiple PDFs* on that dashboard popup menu, it opens the master form editor directly.
 
-#### Master Form
-It builds a web form that does not link to any PDF initially.  After you leave the master form editor, you can upload the PDF files to build so-called `Linked PDF Forms`.  In link form editor, you can pick up any form widgets from its mater form and be mapping it to your PDF.  As you can upload and build any amount linked form against the same master form, once you got submissions to this master form, all its linked form will generate the PDF files base on the linked mapping.
+![start-to-build](https://docs.platoforms.com/images/page/form/start-to-build.png)
+
+
+
+### Creating an Online Form for an Existing PDF 
+
+**Step 1:** Click the *Creating Online Form for an Existing PDF* button; when the option appears, upload your PDF.
+
+**Step 2:** Select the type of form you want to build.
+
+The page presents you with two options:
+
+- **Online Web Form**
+  Transform your PDF form into an easy-to-use web form that's compatible with all web browsers, provides an excellent mobile experience, and is quick to load. This option takes slightly longer to build as you have to complete the web form and PDF field mappings.
+- **Online PDF Form**
+  It's easy to build, keeps all the original details from your PDF, and is suitable for any complex PDF form. This form is only compatible with the latest web browsers, such as Chrome, Firefox, Opera, Safari and Edge; not Internet Explorer. You might experience slow loading times if you're using a PDF with a lot of images. 
+
+
+
+### Creating a Master Form for Multiple PDFs
+
+**Step 1:** Click *Create Master Form* *for Multiple PDFs*.
+
+This opens the master form.
+
+- **The Master Form**
+  Initially, the master form does not link directly to a PDF. Once you leave the master form editor, you can upload the PDF files and start building linked PDF forms. Use the link form editor to move a widget from the master form and map it to your PDF. You can upload and create as many forms linked to your master form as you want. As forms get submitted, the linked forms will generate PDF files based on the mapping.
 

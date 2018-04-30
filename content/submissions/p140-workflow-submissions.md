@@ -4,7 +4,16 @@ weight = 46
 description = "View your workflow submission progress"
 +++
 
-The workflow has multiple steps. In submission workflow page, you can easily understand how many workflow are completed, how many steps they are finished and view its PDF etc. You even can find the form URL for every workflow step so that you can fill out or re-submit the workflow form - in case you don't get the email that includes the workflow form URL. 
+# WORKFLOW SUBMISSION
+
+Workflow forms have multiple steps, and you need the power to monitor them. On our workflow submissions page, you can:
+
+* See all completed workflows
+* Check out the progress of individual steps
+* View the final submitted PDF
+* Find links to workflow steps, in case you need to fill out or re-submit a form
 
 
-![Workflow Submission](/images/page/submission/workflow-submissions.png)
+
+
+![workflow-submissions 2](http://clients.typecast.io/PlatoForms/imgs/workflow-submissions 2.PNG)

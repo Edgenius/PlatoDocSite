@@ -9,31 +9,46 @@ Any settings in this designer won't impact the PDF printing. They are only used 
 {{% /notice %}}
 
 
-In `Form Preview` navigation bar, press `Design Form` button, it opens the form designer sidebar. With form designer, you can easily customise your form's look and feel. 
+# FORM DESIGNER
 
-![Online PDF Form Designer](/images/page/pfe/pfe-designer.png)
+In the *Form Preview* toolbar, click *Design Form* to open the *Form Designer* side panel. Use the form designer to customise the look and feel of your form.
 
-Your change is reflecting to form preview immediately if your form has corresponding widgets. Only when you explicitly click `Apply` button, the changes are saved. Also, only when you publish this form (again), the new look-and-feel will be exposed to public users. You can `Revert` your change to last save state or `Reset to default` to restore to our default look and feel. 
-
-In form designer second tab, you can paste your CSS styles into that text box. Likewise, this CSS only apply to the new form when you publish the form (again).  These styles have higher priority and will overwrite those default styles. 
-
-{{% notice tip  %}}
-<a name="HM-DESIGNER2-215" class="anchor"></a>
-If you the embedded form to your website, the submission bar always displays at the bottom of the PDF page. 
-{{% /notice %}}
+***Please Note:*** Design settings set in the designer only affect the Online PDF Form, and not printed PDFs.
 
 
-#### Reference: The controls in the form designer.
 
-Name    | Description
---------|------
-Form Width     | Adjust the form width, in `%` unit.
-Input Border Colour | Input text colour. The colour is also used in checkbox and dropdown internal element, for example, that tick marker.
-Input Background Colour | Input text colour. Our form designer also adjusts its placeholder text colour accordingly.
-Form Title Colour| Form title and its help text colour.
-Label Colour | Signature and Image uploading label colour. Note, their font size is controlled in Form Builder, not here.
-Button Colour | Submit button background colour. Our form designer also adjusts its border and button text colour accordingly.
-Submission Bar Colour | Submission bar background colour.  Our form designer also adjusts its border accordingly.
-Error Background Colour | Error message background and input box border colour if it has an error.
-Error Text Colour | Text colour in error messages.
+![pfe-designer](http://clients.typecast.io/PlatoForms/imgs/pfe-designer.png)
+
+
+
+**Designing the form**
+
+In the Form Preview toolbar, click *Design Form* to open the Form Designer side panel. Use the form designer to customise the look and feel of your form.
+
+**Saving the form**
+Changes are visible live on the form, which lets you experiment until you get things right. When you're finished, click *Apply* to save your changes.
+
+**Viewing changes**
+The next time you publish your form, it will reflect the changes and adopt the new look-and-feel for public users. If you're not happy with your changes, you can revert the design back to the last saved state, or reset to default—it's up to you.
+
+**Custom CSS**
+On the Form Designer, click the CSS tab, and add your CSS styles to the text box. Custom CSS will override any other styling set in the designer. To save your styles, click *Apply*. Any changes will be visible the next time you publish a form.
+
+
+
+#### Controls of the Form Designer
+
+The following controls are used for designing your form.
+
+| Name                        | Description                                                  |
+| --------------------------- | ------------------------------------------------------------ |
+| **Form Width**              | Adjust the form's width in pixels.                           |
+| **Input Border Colour**     | Input text colour. This is the colour of the tick (check) in the checkbox and the selector of a dropdown. |
+| **Input Colour**            | Background colour of the input fields.                       |
+| **Form Title Colour**       | Colour of the title text.                                    |
+| **Label Colour**            | Colour of the signature and image upload label.              |
+| **Button Colour**           | Background colour of the *Submit* button.                    |
+| **Submission Bar Colour**   | Background colour of the Submission bar.                     |
+| **Error Background Colour** | Background and border colour of an input box after an error. |
+| **Error Text Colour**       | Colour of the text in an error message.                      |
 

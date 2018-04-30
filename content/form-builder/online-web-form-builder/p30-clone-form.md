@@ -1,18 +1,44 @@
 +++
 title = "Clone the Form"
 weight = 42
-description = "Clone help you create the form for minor PDF updates"
+description = "Easily duplicate your forms with PlatoForms. There's no need to spend time rebuilding the same form with a few minor modifications."
 +++
 
-This may happen very often - you modified your PDF slightly, either added a new field or adjusted the layout of a page. If you already created the web form for your PDF in PlatoForms, you can cope with this case in an elegant way and save lots of effort without building a new form from scratch.  
+# CLONE FORM
 
-Go to `Dashboard`, move the mouse over that old version PDF, press that `gear icon` and select "Clone Form" in its dropdown menu. In the popup dialogue, you can turn off `Reuse PDF File` and turn on `Reuse Form Widgets` then press `Clone`. 
+There's no need to spend time rebuilding the same form with a few minor modifications. In a few clicks, you can **duplicate a form** and make the changes you require.
 
-![Clone the Form](/images/page/form/clone.png)
+**Creating a duplicate form:**
+**Step 1:** Log in to your *dashboard*.
+**Step 2:** Click the *gear* icon in the top right of the form you want to clone.
+**Step 3:** Select *Clone Form*.
+
+![clone-form](http://clients.typecast.io/PlatoForms/imgs/clone-form.png)
+
+**Step 4:** In the popup, you can choose:
+
+- **Reuse PDF file**
+  For creating a form from the original PDF; you won't need to upload your PDF again. 
+
+- **Reuse Form widgets**
+  If your PDF is a new version and you wish to reuse your widgets.
+
+  ​
+
+![clone-form-pop-up](http://clients.typecast.io/PlatoForms/imgs/clone-form-pop-up.png)
 
 
-In next step, you just upload the new version PDF. After the upload succeeds, the form builder is open with all old version form widgets. They lay in the new version PDF with the same place in old one. The following steps are pretty straightforward - if you added a field in PDF, then add its corresponding field in form builder.  If your PDF has a new layout, then dragging the PDF widgets into the new place.
 
-With clone form, you can create the form for a new version PDF in a few seconds! More than that, you can choose `Reuse PDF File` to create a different web form for the same PDF. In a rare case, you even can turn on both `Reuse` option and tweak a new web form for the same PDF.
+**Step 5:** 
 
+1. **Reuse PDF file = On | Reuse Form widgets = Off**
+
+   Reuse the same PDF as before. None of the original widgets are duplicated so you can start over with adding and mapping your widgets.
+
+2. **Reuse PDF file = Off | Reuse Form widgets = On** 
+   Upload the new PDF version. Once the upload completes, the form builder opens displaying all the previous version's widgets. The widgets are located in same positions as before, but you can move them around and edit them if you wish.
+
+3. **Reuse PDF file = On | Reuse Form widgets = On**
+
+   Make small changes to a new web form, using the same PDF.
 

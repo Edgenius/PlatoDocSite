@@ -1,35 +1,52 @@
 +++
 title = "Form Designer"
 weight = 46
-description = "Customise your form's look and feel"
+description = "Use the PlatoForms form designer to customise the look and feel of your web form. "
 +++
 
-In `Form Preview` navigation bar, press `Design Form` button, it opens the form designer sidebar. With form designer, you can easily customise your form's look and feel. 
+# FORM DESIGNER
 
-![Form Designer](/images/page/form-preview/form-designer.png)
+In the *Form Preview* toolbar, click *Design Form* to open the *Form Designer* side panel. Use the form designer to customise the look and feel of your form.
 
-Your change is reflecting to form preview immediately if your form has corresponding widgets. Only when you explicitly click `Apply` button, the changes are saved. Also, only when you publish this form (again), the new look-and-feel will be exposed to public users. You can `Revert` your change to last save state or `Reset to default` to restore to our default look and feel. 
 
-In form designer second tab, you can paste your CSS styles into that text box. Likewise, this CSS only apply to the new form when you publish the form (again).  These styles have higher priority and will overwrite those default styles. 
 
-#### Reference: The controls in the form designer.
+![form-designer-sidebar](http://clients.typecast.io/PlatoForms/imgs/form-designer-sidebar.png)
 
-Name    | Description
---------|------
-Form Width     | Adjust the form width, in `px` unit.
-Label Layout   | 4 options, Customise, Vertical, Horizontal or Hide; Customise means each label may have a different layout which is controlled by its properties dialogue in builder page. 
-Font    | Font for all text in your form, e.g, label, heading, descriptions, input text, button text etc.
-Font Size | Font size label. Our form designer will automatically adjust other text font size, e.g, heading, help text and button text size etc.
-Line Spacing | Spacing between lines
-Label Width | Only when your label layout is `Horizontal` or `Customise`, it impacts the width of the label and then impacts the width of the input field in the same line.
-Navigation bar | When your form has `Page Divider`, means the form has multiple pages(steps), it decides if a navigation bar is displayed on the top of the form.
-ReCaptcha | It is a Google widget with limited customisation options. You only can choose a light or dark theme for it. 
-Label Colour | Label Colour. Our form designer also adjusts help text colour accordingly.
-Input Colour | Input text colour. Our form designer also adjusts its border and placeholder text colour accordingly.
-Button Colour | Button background colour. Our form designer also adjusts its border and button text colour accordingly.
-Highlight Colour | It is for input box border colour when it is getting focus. It is the colour of the navigation bar active item. It is also the `link text` colour in the description widget.
-Background Colour | The page background colour.
-Signature Colour | The signature background colour. Our form designer also adjusts its border, button and help text colour accordingly.
-Navbar Colour | Navigation bar background colour.  Our form designer also adjusts its border and text colour accordingly.
-Error Colour | Error message text colour and input box border colour if it has an error.
+
+
+**Designing the form**
+
+In the Form Preview toolbar, click Design Form to open the Form Designer side panel. Use the form designer to customise the look and feel of your form.
+
+**Saving the form**
+Changes are visible live on the form (if it has connected widgets), which lets you experiment until you get things right. When you're finished, click Apply to save your changes.
+
+**Viewing changes**
+The next time you publish your form, it will reflect the changes and adopt the new look-and-feel for public users. If you're not happy with your changes, you can revert the design back to the last saved state, or reset to default—it's up to you.
+
+**Custom CSS**
+On the Form Designer, click the CSS tab, and add your CSS styles to the text box. Custom CSS will override any other styling set in the designer. To save your styles, click apply. Any changes will be visible the next time you publish a form.
+
+#### Controls of the Form Designer
+
+The following controls are used for designing your form.
+
+| Name                  | Description                                                  |
+| --------------------- | ------------------------------------------------------------ |
+| **Form Width**        | Adjust the form's width in pixels.                           |
+| **Label Layout**      | Four options: Customise (to control each layout from the properties dialogue), Vertical, Horizontal, or Hide. |
+| **Font**              | The font used for all text on the form.                      |
+| **Font Size**         | The font size. The form designer will automatically adjust the headers and other differing text size. |
+| **Line Spacing**      | The spacing between lines.                                   |
+| **Label Width**       | For *Horizontal* or *Customise* layouts: it adjusts the width of the label and the input field on the same line. |
+| **Navigation Bar**    | The navigation bar is displayed when a form contains multiple pages. Multiple pages are created using *Page Divider*. |
+| **ReCaptcha**         | Select either light or dark themes for the reCaptcha.        |
+| **Label Colour**      | The font colour for help text.                               |
+| **Input Colour**      | The border and placeholder colour.                           |
+| **Button Colour**     | The border and button colour .                               |
+| **Highlight Colour**  | The colour of the the input box border colour (when focussed/selected), active items in the navigation bar, and the link text in the description widget. |
+| **Background Colour** | The background colour of the page.                           |
+| **Signature Colour**  | The background colour of the signature.                      |
+| **Navbar Colour**     | The background colour of the navigation bar.                 |
+| **Error Colour**      | Error message text colour, and the border colour of the input box. |
 

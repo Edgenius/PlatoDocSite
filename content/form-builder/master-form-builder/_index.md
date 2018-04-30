@@ -1,23 +1,110 @@
 +++
 title = "Master Form Builder"
-description = "Collect the data and fill them with any amount of PDF by Master Form ."
+description = "With a master form you can link multiple different PDF forms. With PlatoForms creating a master form is simple."
 weight = 8
 +++
 
-To build a master form, it doesn't need to upload a PDF in advance. In the form build, there are 3 main area: `Attributes`, `Preview` and `List of Widget`. From "Add" button on the top navigation bar, you can add new form widget. The widgets contain Text, Choice, Dropdown, Signature, Page Divider, Description, reCaptcha and File Upload. The first 4 widgets can be used to render content in your PDF when you link this master form to PDF later. 
+# MASTER FORM BUILDER
 
-![Master Form Builder](/images/page/master-form/master-annotated.png)
+When building a master form, you don't need to upload a PDF beforehand. Click *Create Master For Multiple PDFs*, and you'll arrive at the *Form Builder*. On the form builder, there are three main sections:
 
-During the build, you can `Preview Form` anytime to check out what your form looks like. After you completed the form build, you can publish it to get a shared URL or the embedded script. 
+* Form Widget Attributes
+* Form Widget Preview
+* Form Widget List
 
-It is the first step to complete the master form. After that, you can upload your PDF files as the linked forms. 
 
-![Link PDF to Master Form](/images/page/master-form/link-pdf.png)
 
-After PDF upload, it redirects to a `Linked Form Editor`. It lists all widgets of your master form on its left side panel. You **cannot** add, delete, or modify its form attributes. After you add them to your PDF which is on your right side panel, you can edit its PDF attributes that decides how it displays. As mentioned above, only Text, Choice, Dropdown, Signature can be added to your PDF. 
+![master-build-layout](http://clients.typecast.io/PlatoForms/imgs/master-build-layout.png)
 
-![Link Form Editor](/images/page/master-form/linked-form-editor-annotated.png)
 
-A tip here, you can add a widget to PDF multiple times, for example, if your PDF needs same personal sign every page, you can add the same signature widget to each page of the PDF, then the final generated PDF will contain this signature every page.
 
-Likewise, you also need to `publish` this link form after you believe it is done. It prompts a shared URL or embedded script as well. But if you notice that, it is same value with the master form, i.e, whatever how many PDF you linked, you only have the unique sharing information. Because the end users only need to fill the mater form, then all linked PDF is created together.
+## Step 1: Building Your Master Form
+
+Get started building your form. 
+
+### Adding Fields to Your Form
+
+At the top left of the page is the *Toolbar*. Use the ***+ Add*** button to add various fields to your form. The options are categorised by compatibility; either *Form and PDF* or *Form Only*.
+
+| Form and PDF | Form Only    |
+| ------------ | ------------ |
+| Text Input   | Page Divider |
+| Choice       | Description  |
+| Dropdown     | ReCaptcha    |
+| Signature    | File Upload  |
+
+### Arranging the Widgets
+
+When you add a field, its widget will appear in the *Form Widget List*. You can edit its attributes in the *Form Widget Attributes* panel. 
+
+- **In the *Form Widget List* panel**
+  Drag and drop your widget to quickly rearrange the order of the fields.
+
+### Previewing Your Form
+
+Preview your form at any time using the *Preview Form* button in the top *Toolbar*. 
+
+<div class="notices tip" >We recommend adding some sample data to your form before previewing. This way the form is rendered with data.</tip>
+
+### Publishing Your Form
+
+Once you've finished building the form, Click *Publish* in the top left *Toolbar*, you'll then receive a shared URL or embedding script.
+
+
+
+##  Step 2: Uploading Your PDFs
+
+Once you've completed the *Master Form*, it's time to upload your PDFs as *linked forms*. Use the below steps and image to guide you.
+
+1. Click *Link* on the form you wish to add a PDF to.
+2. Click *Link New PDF*, and upload the PDF.
+
+
+
+![link-pdf](http://clients.typecast.io/PlatoForms/imgs/link-pdf.png)
+
+
+
+## Step 3: Editing Your Linked Form
+
+The *Linked Form Editor* consists of two panels:
+
+- **Left Panel**
+  Displays all the widgets of the master form. You cannot add, delete, or modify the form attributes.
+
+
+- **Right Panel**
+
+  Displays the PDF form and any fields (corresponding widgets) you add to it. 
+
+  ​
+
+### Adding a Field to the PDF
+
+Add a field to your PDF (in the right panel):
+
+1. **Hover over the widget in the left panel**
+2. **Click *Add to PDF***
+   The field appears at the top of the PDF (right panel)
+3. **Drag and Drop the field to the correct position on your PDF**
+
+***Please Note:*** Only Text, Choice, Dropdown, and Signature can be added to a PDF form. 
+
+
+
+![linked-form-editor-annotated](http://clients.typecast.io/PlatoForms/imgs/linked-form-editor-annotated.png)
+
+
+
+***Hint:*** Widgets can be added to a PDF multiple times; for example, if your PDF requires a personal signature on every page, add the same signature widget to each page. When the final PDF is generated, it will contain the same signature on every page.
+
+
+
+### Step 4: Publishing Your Form
+
+After you've finished building your PDF, click *Publish*. Once published, you'll receive a URL or embedding script to share.
+
+
+
+You'll notice the sharing URL is singlular no matter how many PDFs you link, this is because the user only needs to fill out the one master form. Once the master form is complete, all the linked PDFs will automatically complete.
+

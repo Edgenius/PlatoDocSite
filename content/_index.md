@@ -1,22 +1,20 @@
 +++
 title = "Home of PlatoForms Documentation"
-description = "PlatoForms is an online drag & drop form builder used for converting any non-editable, non-fillable, even a scanned image PDF form to normal web page forms." 
+description = "With PlatoForms creating forms is easy and fun. Don't spend time working with long and confusing PDF forms, let us do the hard work for you." 
 +++
+#  PlatoForms' Documentation
 
-# PlatoForms Documentation
+**Hi there!** Welcome to our documentation center.
 
+We're making forms easy and fun. Don't spend time working with long and confusing PDF forms, let PlatoForms do the hard work for you.
 
-PlatoForms is a service to help you convert your PDF into a common form in a web page. Filling out the PDF is always challenge. Even you make a fillable PDF file, your clients may still don't know how to fill out. In contrast, the form on the web page is an easy way to collect data. Everyone knows how to use it if they know how to surf the Internet!
+Let's face it, very few people know how to fill out a PDF form. They're confusing, difficult to use, and highly unpopular. With PlatoForms you can swiftly and effortlessly **convert your PDF forms** into nifty, easy to use, familiar web forms. Once your user submits the information, we turn it back into a PDF for you and send out a notification. *Simple*.
 
-PlatoForms helps to conquer this problem. You can use our form builder to create a web page which links the form fields to your PDF.  When your clients are filling in the form on the web page, they even don't know they are filling out a PDF! When PlatoForms gets the submission, it immediately converts the submitted data into your PDF and notifies you. 
+PlatoForms works best when you need a form filled out by multiple people, for example, your clients, customers, or team members.
 
-PlatoForms is a good way to collect data from your clients or your team members. It is NOT the service if you only need to fill the PDF ONCE.
+**PlatoForms is very versatile**; it can handle various PDF formats, such as multiple pages, documents with images, and even scanned PDFs. **And**, most importantly, it's easy to use.
 
-
-PlatoForms can handle various format PDF, such as multiple pages PDF, PDF with various images or even a scanned PDF. PlatoForms is pretty easy to use. In most case, you don't need to read this document, just upload your PDF and play with the form builder.
-
-If any questions, go to our [website home page](https://www.platoforms.com) and send a message to us.
-
-![PlatoForms Dashboard](/images/page/home/dashboard.png)
+If you have any questions, [send us a message](https://www.platoforms.com/#contact).
 
 
+![PlatoForms Dashboard](https://docs.platoforms.com/images/page/home/dashboard.png)

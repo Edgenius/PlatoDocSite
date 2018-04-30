@@ -1,33 +1,76 @@
 +++
 title = "Form Preview"
 weight = 44
-description = "Preview your form can check what it looks like on web page. It can test form submit and PDF generation."
+description = "Preview the progress of your web form at any time. PlatoForms makes building web forms easy."
 +++
 
-Clicking "Preview Form" button in the toolbar can open a new window to check what your form looks like. This form can be filled and submitted as same as the form you will share with the public.  Here introduce some tips that help you build and preview forms more efficiently.
+# FORM PREVIEW
 
-![Text Preview Data](/images/page/form/preview.png)
-
-
-#### Disable Form Validation
-Normally, the form may run some validation at your submitting, for example, maximum or minimum length or numeric value required etc. This is good if you want to collect enough and valid data from your customers. However, this may be annoying when you preview the form. For example, if your web form has multiple steps or you want to preview PDF with some certain fields, you can turn off "Form Validation", so the form still can be submitted even it is invalid.
+You can preview your form at any time by clicking *Preview Form* in the *Tools* menu. 
 
 
-#### Fill Sample Data
 
-In form builder, you can fill some data in preview section in its field properties popup. They can use both Form Preview or PDF Preview. For example, if you input "John Joe" into this text input field in its `preview section`. At web form preview page, click "Fill Preview Data" button in its top function bar, this input field will be automatically filled in "John Joe" as sample data. This can save lots of your time when you want to preview generated PDF after form submitted. In form builder page, "John Joe" is also rendered in PDF when you press `Preview PDF`.
-
-Note, not all fields can set pre-filling data.  Only `SingleText`, `MultiText`, `Choice`, `Dropdown` and `Signature` can have sample data. For `File Upload` or `Captcha`, you always have to fill them in manually.
-
-![Text Preview Data](/images/page/form-preview/text-preview.png)
-
-#### Preview PDF after form submitted
-
-Once you submit the form, you can check out the generated PDF by your form data. Simply press that "Preview PDF" button on its top functional bar.
+![preview-button](http://clients.typecast.io/PlatoForms/imgs/preview-button.png)
 
 
-#### Sample and Default Option
 
-In `Choice` or `Dropdown` field, you can set the default selected value in the form. It means that choice is selected once the form is loaded. You must understand the sample selection and default selection are the different things. In below example, the above blue highlight area is the default value, the left below one is sample value.
+The form previews are fully functioning; you can **fill them out** and **submit them** in the same way as a published form.
 
-![Text Preview Data](/images/page/form/sample-default-option.png)
+#### The Form Preview
+
+![form-preview](http://clients.typecast.io/PlatoForms/imgs/form-preview.png)
+
+
+
+## Disabling Form Validation
+
+Typically, when you submit a form, it will run some validation checks—for example, maximum characters, numeric value. On a live form this is a valuable process, but on a preview, it can cause complications.
+
+Turn Form Validation **on** and **off** with the *toggle switch* in your preview *Toolbar*. This allows you to submit a form, even if the content is not valid.
+
+
+
+![form-validation](http://clients.typecast.io/PlatoForms/imgs/form-validation.png)
+
+### Filling Sample Data
+
+To make previewing smoother, we recommend entering preview data for the fields you create. To do this, input your example data in the *Form Preview* section of your fields attributes panel.
+
+
+
+![preview-data-edit](http://clients.typecast.io/PlatoForms/imgs/preview-data-edit.png)
+
+
+
+When you preview your form, click *Fill Sample Data* in the top right *Toolbar*, and the fields will automatically populate with your example data. 
+
+To preview the form rendered in PDF, just click *Preview PDF* in the *Form Builder*.
+
+**Please note:** Some File Upload and Captcha field types do not accept sample data. You must enter these manually.
+
+
+
+### Previewing the PDF after form submission
+
+After submitting a form, you can **view the generated PDF** from the success page. Click *Preview PDF* in the top right *Toolbar*.
+
+
+
+![generated-pdf-view](http://clients.typecast.io/PlatoForms/imgs/generated-pdf-view.png)
+
+### Sample data and Default options
+
+The *Choice* and *Dropdown* field types can have a default selected value added to them. This means that after loading, the default value is already pre-selected. 
+
+**Sample selection** and **default selection** are different things that can run independently of each other. 
+
+- **Sample selection**
+  The option selected by clicking *Fill Sample Data* while previewing a form.
+
+
+- **Default selection**
+  The option automatically selected in a form by default.
+
+
+
+![sample-default](http://clients.typecast.io/PlatoForms/imgs/sample-default.png)

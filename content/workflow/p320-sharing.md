@@ -3,19 +3,33 @@ title = "Sharing Workflow"
 description = "Sharing Workflow"
 weight = 300
 +++
+# SHARING YOUR WORKFLOW
 
-After you design the workflow, you need to publish this work and share it by a URL or embed the script into your website.
+Once you have designed the workflow, you need to publish it and then share it or embed it to your website.
 
-Press the sharing icon on the action panel beside your workflow name. In the popup window, press "Publish the Workflow" button. Once the workflow is published, the settings of its steps become read-only. You **cannot** change, delete or add a step as well. To do that, you have to `Clone` this workflow to make a new workflow. 
+- To share your workflow, click the *share icon* in the *action panel* to the side of your workflow name. 
 
-![Sharing the Workflow](/images/page/workflow/sharing-workflow.png)
+- To publish, click *Publish the Workflow* in the pop-up window. 
 
-A workflow status should be one of these three: draft, published and broken.  The initial status is draft that you can make any changes on your workflow. The broken workflow is caused because one or more forms in your form is archived, deleted or sharing-stopped. To fix a broken workflow, you need to make all its forms in `published` status.  Only the published workflow can be open and accept the submissions.
+  Once the workflow is published, the steps become **read-only**. This means you cannot change, delete or add another step. If you need to make changes, *Clone* the workflow and start again.
 
-If you want to embed your workflow in your web page, you must set up a Page URL in its sharing dialogue (embedded sharing tab). If you don't set up this URL correctly, you cannot get correct link URL after the 1st step. 
 
-{{% notice tip  %}}
-<a name="HM-WORKFLOW-200" class="anchor"></a>
-This URL is crucial to complete your workflow step-by-step by its correct link address. It is used in all notification emails and our Submissions page.
-{{% /notice %}}
+
+![sharing-workflow](http://clients.typecast.io/PlatoForms/imgs/sharing-workflow.png)
+
+
+
+There are three statuses for a workflow:
+
+- **Draft**
+  This is the initial status of a workflow. You can make any changes you require.
+
+- **Published**
+  A published workflow can be shared and accept submissions. Once a workflow is published, you cannot make any further changes.
+
+- **Broken**
+
+  A workflow becomes broken when one or more forms in the form archive are archived, deleted, or sharing is stopped. To fix a broken form, make sure all forms are in published status.
+
+***Please Note:*** If you want to embed your workflow in a web page, set up a *Page URL* in the forms *sharing dialogue* (embedded sharing tab). To use the step-by-step process of a workflow, it is essential you set up the correct URL. It is used in all notification emails and also the submissions page.
 

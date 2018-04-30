@@ -1,9 +1,14 @@
 +++
 title = "Master Form Submission"
 weight = 80
-description = "How to view the submissions and download the generated PDF files"
+description = "Keep track of your master form submissions. PlatoForms allows you to manage and view submitted forms."
 +++
 
-PlatoForms uses the same way to manage the master form submissions with other forms, i.e, send email notification, system notification and look up from the submission page. Except, the file is not a single PDF but a zip package includes all your linked PDFs. 
+# MASTER FORM SUBMISSION
 
-More details, please checkout [Submissions section](/pdf-form-submissions)
+PlatoForms manages the master form submission in the same way as all other forms; for example, you'll receive an email notification, system notification and be able to view on the submissions page. The only difference is that the file is **not a single PDF**, but a **zip package of all the linked PDFs**.
+
+Learn more about [submissions](/submissions/).
+
+
+

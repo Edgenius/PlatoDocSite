@@ -1,20 +1,28 @@
 +++
 title = "Dropdown Properties"
 weight = 415
-description = "Form Dropdown is rendered text in your PDF"
+description = "Let your users select between multiple options. The PlatoForms dropdown brings multiple choice selection to your forms."
 +++
+# DROPDOWN PROPERTIES
 
-The dropdown is very similar to `Choice` field. They are all for selection operation. However, Choice normally is rendered to `tick` or `cross` sign although its other option can include text. But dropdown is rendered to text to your PDF. 
+Use the *drop-down* field to provide your users with multiple options; for example, selecting their home country. In the web form, this appears as a classic drop-down menu, like in the example below. However, in a PDF it is rendered as a text list.
+
+
+
+![drop-down-example](http://clients.typecast.io/PlatoForms/imgs/drop-down-example.png)
+
 
 
 ## Value and Label
 
-{{% notice tip  %}}
-<a name="HM-EDITOR-020" class="anchor"></a>
-Value is used to print in PDF. Label is shown in your Form.
-{{% /notice %}}
-
-The `Value` is invisible in form but it is the text of your PDF. In your form, the user only sees these `Label`s. In most case, they could be same. But you also can make them different. For example, if you want to show countries in your dropdown, they are normally the full name of the countries. But in PDF, you may want to show the country code.  
+- **Item Label**
+  The text that appears in the *dropdown* on the *web form*.
+- **Item Value**
+  The text that appears in the *dropdown* list on the *PDF form*.
 
 
-![Dropdown Properties](/images/page/form/dropdown.png)
+In many cases, the *Value* and *Label* could be the same. But, you have the freedom to use different labels if you wish. For example, you might want to use country names on the *Web Form* and country codes on the *PDF*.
+
+
+
+![dropdown](http://clients.typecast.io/PlatoForms/imgs/dropdown.png)

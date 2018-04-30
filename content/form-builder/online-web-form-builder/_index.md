@@ -1,15 +1,65 @@
 +++
 title = "Online Web Form Builder"
-description = "Online Form builder is core function to help you make your PDF fillable and publish it online."
+description = "Build online Web Forms quickly and easily with PlatoForms Web Form Builder."
 weight = 4
 +++
 
-If you choose build a online web form, you will be redirected to a form builder with 2 panels. The left side is for your `Web Form` editing. The right panel is for your `PDF` editing. From its top function bar, you can press `Add` button to add various fields. Some fields are shared by both PDF and web form, such as Single Line Field, Choice and Signature etc. Some fields are only used for the web form, such as Page Divider, Captcha and File Upload etc.
+# ONLINE WEB FORM BUILDER
 
-When you added a field that is shared by PDF and Form, both panels will have a widget. In right PDF panel, you can drag and drop that widget into the place where the field is located in PDF. The widget in left Web Form panel also can be dragged and dropped to re-arrange the order of fields in your web form. 
+Use this page to learn how to use our Online Web Form Builder.
 
-If your PDF has multiple pages, you can switch between pages on that page list menu in its function bar.
+The online web form builder has two panels:
 
-While you are building, you can check what the web form looks like by pressing `Preview Form` button. Likewise, you can check the PDF by `Preview PDF` button. Before you preview the PDF, it is better if you can fill some [sample data](p20-preview#fill-sample-data) so that this PDF can be rendered with data even you don't submit the form.
+* **Left side:** for editing your web form.
 
-![Form Builder](/images/page/form/builder.png)
+* **Right side:** for editing your PDF.
+
+  ​
+
+## Building Your Form
+
+Get started building your form. 
+
+### Adding Fields to Your Form
+
+At the top left of the page is the *Toolbar*. Use the ***+ Add*** button to add various fields to your form—options are categorised by compatibility; either *Form and PDF* or *Form Only*.
+
+| Form and PDF | Form Only    |
+| ------------ | ------------ |
+| Text Input   | Page Divider |
+| Choice       | Description  |
+| Dropdown     | ReCaptcha    |
+| Signature    | File Upload  |
+
+### Arranging the Widgets
+
+When you add a field, its widget will appear in the panels below. If the field is compatible with both *Web Form* and *PDF*, you'll see it in both the left and right panels. 
+
+* **In the Web Form Panel**
+  Drag and drop your widget to quickly rearrange the order of the fields.
+* **In the PDF panel**
+  Drag the fields to map them to the correct section of your PDF.
+
+
+
+### Working with Multiple Pages
+
+If your PDF has multiple pages, you can switch between each page with the *Page Toggle* at the top of the *PDF* panel—it looks like this:
+
+
+
+![switch-pages](http://clients.typecast.io/PlatoForms/imgs/switch-pages.PNG)
+
+
+
+
+
+### Previewing Your Form
+
+Preview your form or PDF at any time using the *Preview Form* and *Preview PDF* buttons in the top *Toolbar*.
+
+<div class="notices tip" >We recommend adding some sample data to your PDF before previewing. This way the PDF is rendered with data.</tip>
+
+
+
+![online-form-builder](http://clients.typecast.io/PlatoForms/imgs/online-form-builder.PNG)

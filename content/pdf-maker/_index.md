@@ -1,13 +1,50 @@
 +++
 title = "PDF Maker"
-description = "Create a PDF (Form) document from scratch."
+description = "Create a PDF form from scratch. With our PlatoForms PDF maker, it’s easy and fun."
 weight = 3
 +++
+# PDF MAKER
 
-The PDF Maker is an editor to create a PDF (Form) document from scratch. In top toolbar, you can add various PDF widget to the PDF page canvas. The new widget initial put on the top of the page. You can drop-and-drop it to anywhere on this page. Dragging the widget corner, you also can resize the widget. If the widget is selected, on the left side of the page, it is the properties of this fields. You can change them to your want. If there is no any selected widget,  the properties panel will display the page list of this PDF. At there, you can drag the page to re-order them. You also can delete any particular pages. 
+Use the PDF Maker to create a PDF form from scratch. 
 
-In the top of function bar, you can preview the PDF in a new window. After you completed your PDF form design, pressing the "Make Online Form" button, PlatoForms tries to convert this PDF to an online form. All PDF widgets are mapped to relevant online form fields. You still have to assign the label, help text or placeholder for these online fields. The reason is, in PDF Maker, it doesn't have relation between the label to widgets (e.g, Input Box, Dropdown or Signature etc.) To minor your typing effort, PlatoForms extracts all text and pops an auto-completion menu under your input. You can convert this PDF to the online form any times. It will ask if you want to merge with existed online form (if you have created before) or create a new one.
+#### Adding a widget
 
-There is no limitation how many PDF you can create, it is 100% free for our sign-up users.
+You can add the fields **Text**, **Input**, **Choice**, **Dropdown**, **Signature**, **Image**, and **Shapes** to your form. 
 
-![PDF Maker](/images/page/pdfmaker/pdfmaker.png)
+In the top toolbar, click the *widget* option you want to add to your form. After adding a widget, it appears at the top of the PDF. 
+
+#### Positioning your widget
+
+*Drag-and-drop* your *widget* into place. If you need to resize the widget; select it and drag the markers on either the left or right side. 
+
+#### Changing the widget properties
+
+Select your widget to view the properties in the left panel. Adjust the properties to make changes.
+
+#### Ordering and Deleting pages
+
+When no widget is selected, the left side column displays an ordered list of all the pages in your PDF.
+
+* **Order**
+  To reorder your pages, drag-and-drop them into place in the left panel. 
+
+
+* **Delete**
+  You can delete any unwanted pages—click the *trashcan* icon and confirm.
+
+#### Previewing your Form
+
+To preview your form, click the *Preview Form* button in the top *Toolbar*.
+
+#### Completing Your Form
+
+Once you've completed your form, click the *Make Online Form* button in the top toolbar. We will then convert your PDF into an online form, mapping all the widgets to online form fields.
+
+Once the online form completes, you need to assign a *label*, *help text*, or *placeholder* to all the fields—this is because the PDF Maker doesn't differentiate between the widgets. All the text of your form is extracted and placed in the auto-completion menu for ease of use. 
+
+You can convert a PDF to an online form at any time. Each time, you will be asked if you want to **merge the PDF to an existing online form** or to **create a new one**.
+
+
+
+![pdfmaker](http://clients.typecast.io/PlatoForms/imgs/pdfmaker.PNG)
+

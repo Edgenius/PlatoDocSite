@@ -1,6 +1,6 @@
 +++
 title = "Workflow"
-description = "Workflow"
+description = "Share your form with the world. PlatoForms allows you to share your form with the right people, or even embed it on your website."
 weight = 2
 +++
 
@@ -9,8 +9,19 @@ weight = 2
 In a workflow, the PDF can be filled out in multiple steps. 
 {{% /notice %}}
 
+# WORKFLOW
 
-To explain what is workflow, let's start with a use case. For example,  a car sale form needs to be filled out both customer and the salesman. It may also need the sale manager's signature. With PlatoForms, you can build a workflow to achieve this. The workflow includes multiple forms, we call each form as a `Step`.  A workflow can include any amount of steps. Once a form is filled out, an email notification is sent to the correspondents where includes a link to next step. In most cases, the form of each step could use the same PDF. The submission data is overlapping to the PDF of its previous step created. Think about above use case, it may include 3 steps in a workflow to complete this sale form. The first step is for the customer where they filled the personal information, e.g, family name, address or phone etc. The second form is for the salesman who will fill out the information of the car. In the final step, it is for the sales manager who will sign on the form. All forms in these 3 steps are pointing to the same PDF, ie., that sale form. They got a completion PDF with all necessary information after the last step is submitted. 
+Workflows are used to add **process steps** to the completion of a PDF. 
 
-Workflow can be more flexible by different settings. For example, you can decide if the current step data overlap to previous step PDF. You can mix different form types, i.e, web online form or PDF online form. Still, for above example, the first 2 steps could be designed in web online form format. It is easier for your customer and salesman.  The last step for sales manager can use PDF online form. The background of form is just that PDF with all customer and salesman information so the manager is able to review and decide to sign or revise it easily. In workflow, you even can use different PDF files per step.
+For example, imagine a *Car Sales Form* containing three-steps, one step each for the three different people in the sales process—the buyer, salesperson, and sales manager.
+
+**The steps of the example sales process:**
+
+**Step 1:** The buyer of the car fills in their personal information.
+**Step 2:** The salesperson fills in details about the car.
+**Step 3:**  The sales manager signs-off the form to complete the sale.
+
+After each step, a notification is automatically sent to the next person in the process until the form is complete. In many cases, each step is part of the same PDF (the sales form). Finally, when each step is complete, the form is assembled into one PDF file.
+
+
 

@@ -1,14 +1,35 @@
 +++
 title = "Team"
-description = "PlatoForms uses team to collaborate your work."
+description = "Create forms together. PlatoForms allows you to set up your team just the way you want it."
 weight = 5
 +++
 
-You can invite someone to join your team. The PDF and Submissions are shared by team members (under permission controls as described below). As the sign-up user, you can join as many teams as you are invited. Press your name in the main menu, you can switch to a different team in its popup menu.
+# TEAM
 
-![Team](/images/page/team/team.png)
+![team](http://clients.typecast.io/PlatoForms/imgs/team.PNG)
 
 
-For every PDF, you can manage who is the Form Editor, Form Submitter or Form Submission Viewer. To open this permission popup, go to `Dashboard`, mouse over and highlight the targeting PDF, then click the right-top `gear icon`. In dropdown menu, click the "Permission" item.
 
-![Team](/images/page/team/permission.png)
+Collaborating with the right people is a vital part of any business. Our Teams page allows you to set up your team just the way you want it. 
+
+* **Invite team members**
+  Click Invite Team Members in the top right and enter the email addresses of your team.
+
+* **Switch between teams**
+  Click your name in the main menu, and select the team from the popup menu.
+
+You can manage team member permissions for every PDF. Select who is the *Form Editor*, *Form Submitter* or *Form Submission Viewer* with just a few clicks. 
+
+**Setting Permissions:**
+
+* **Step 1:** Hover over the PDF you want to edit
+
+* **Step 2:** Click the gear icon in the top-right
+
+* **Step 3:** Select *Permission* from the *dropdown* menu
+
+  ​
+
+
+
+![permission](http://clients.typecast.io/PlatoForms/imgs/permission.PNG)

@@ -1,25 +1,47 @@
 +++
 title = "Form Preview"
 weight = 50
-description = "Preview your form can check what it looks like on web page. It can test form submit and PDF generation."
+description = "Preview the progress of your web form at any time. PlatoForms makes building web forms easy."
 +++
 
-Clicking "Preview Form" button in the toolbar can open a new window to check what your form looks like. This form can be filled and submitted as same as the form you will share with the public.  Here introduce some tips that help you build and preview forms more efficiently.
+# PDF FORM PREVIEW
 
-![Online PDF Form Preview](/images/page/pfe/pfe-preview.png)
-
-
-#### Disable Form Validation
-Normally, the form may run some validation at your submitting, for example, a value is required. You can turn off this "Form Validation", so the form always can be submitted even it is invalid.
+You can preview your PDF form at any time by clicking *Preview Form* in the *Tools* menu. 
 
 
-#### Fill Sample Data
 
-To quickly preview what the PDF generated from your form submission, you needs fill some testing data. To avoid this tedious work, you can click "Fill Sample Data" button, our system will fill some sample data into your form, then you immediately to submit the form and preview the PDF.
-
-
-#### Preview PDF after form submitted
-
-Once you submit the form, you can check out the generated PDF by your form data. Simply press that "Preview PDF" button on its top functional bar.
+![preview-pdf-form](http://clients.typecast.io/PlatoForms/imgs/preview-pdf-form.png)
 
 
+
+The form previews are fully functioning; you can **fill them out** and **submit them** in the same way as a published form.
+
+#### The Form Preview
+
+![pfe-preview](http://clients.typecast.io/PlatoForms/imgs/pfe-preview.png)
+
+
+
+### Disabling Form Validaiton
+
+Typically, when you submit a form, it will run some validation checks—for example, maximum characters, numeric value. On a live form this is a valuable process, but on a preview, it can cause complications.
+
+Turn *Form Validation* **on** and **off** with the *toggle switch* in your preview *Toolbar*. This allows you to submit a form, even if the content is not valid.
+
+
+
+![form-validation](http://clients.typecast.io/PlatoForms/imgs/form-validation.png)
+
+### Fill Sample Data
+
+When you preview your form, click *Fill Sample Data* in the top right *Toolbar*, and the fields will automatically populate with your example data. 
+
+
+
+### Previewing the PDF after form submission
+
+After submitting a form, you can **view the generated PDF** from the success page. Click *Preview PDF* in the top right *Toolbar*.
+
+
+
+![generated-pdf-view](http://clients.typecast.io/PlatoForms/imgs/generated-pdf-view.png)

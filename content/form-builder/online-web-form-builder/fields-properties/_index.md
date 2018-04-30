@@ -1,15 +1,20 @@
 +++
 title = "Field Properties"
 weight = 400
-description = "Field properties in PDF form builder is used to manage field behaviour in your web form and PDF"
+description = "Edit the properties of your form’s fields. PlatoForms makes building forms easy."
 +++
+# FIELD PROPERTIES
 
-In form builder, when the mouse is over a form field in the left panel, you can press that field type link to open its properties popup. 
-
-![Field Type Link](/images/page/form/field-properties.png)
+To access the field properties, hover over a field in the left panel and click on the field type link (next to the pen icon) to open its properties panel. 
 
 
-Most fields properties are quite simple. Normally, you can immediately see the change in its `Preview section` when you modify the property. More than that, you also can press "Preview Form" in form builder's function bar to review the entire web form.
 
-![Field Preview](/images/page/form/property-preview.png)
+![field-properties](http://clients.typecast.io/PlatoForms/imgs/field-properties.png)
 
+
+
+#### The Field Properties panel
+
+
+
+![field-properties-main](http://clients.typecast.io/PlatoForms/imgs/field-properties-main.png)

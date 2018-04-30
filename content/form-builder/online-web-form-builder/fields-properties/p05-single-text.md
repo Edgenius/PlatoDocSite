@@ -1,83 +1,137 @@
 +++
 title = "Text Field Properties"
 weight = 305
-description = "Text accepts various format text and render them as text in your PDF."
+description = "Customise your text fields with PlatoForms Text Field Properties."
 +++
+# TEXT FIELD PROPERTIES
 
-## Text Type
+Use this section to learn how to customise your text fields.
 
-In `Single Line Text` properties popup, there is a "Type" dropdown. You can make this text is more specific, for example, only numeric allowed, email or date time etc.
+## Text Type
 
-![Single line text Type](/images/page/form/text-type.png)
+In the *Text Input* field's properties panel, you can specify the type of text your users can input. To switch the text type, use the *toggle switch* in the top left. 
+
+There are seven text types:
+
+* Single Line Text
+* Numbers
+* Email
+* URL
+* Date
+* Time
+* Date and Time
+
+
+
+![text-field-properties](http://clients.typecast.io/PlatoForms/imgs/text-field-properties.png)
+
+
+
+
 
 ## Format Rule
 
-{{% notice tip  %}}
-<a name="HM-EDITOR-010" class="anchor"></a>
-With format property, you can split Text Field into a few of parts. For example, you can set YYYY/MM/DD for a Date type field.
-{{% /notice %}}
+The format property allows you to **split the text field into multiple parts**. This is helpful when formatting for numerical calendar dates; for example, if you entered YYYY/MM/DD, the field would divide into three sections to allow for the year, month, and day.
 
-If the text type is one of `Single Line Text`, `Date`, `Time` or `Date and Time`, you can set a format rule to add fine control over this field.
+The format rule is available for *Single Line Text*, *Date*, *Time*, and *Date and Time*.
 
-
-As the example, on below screenshot, it is set to `Date` type and has `YYYY-MM-DD` as format rule. So you can see this text field is split into 3 smaller input fields to restrict only `YYYY-MM-DD` format date can be input.
-
-![Text Field Format](/images/page/form/text-format.png)
-
-The format rule can be categorised into 2 kinds. One is for `Text` field, the other is for `Date and Time` field. 
-
-#### Format for Text field 
-
-Placeholder character can be `#`(character) or `d`(digit).  
+In the below example, you can see the text type is *Date*, and it has the format rule applied; YYYY-MM-DD. In the form preview, you can see that three small input boxes are available for each division of the format rule.
 
 
-In below example, the first format rule will split the field into 3 parts with `:` as a separator.  The second example is also 3 split parts with `/` as a separator. The third format rule is a good example for telephone number input.
 
-```
-##:##:##
-##/##/##
-(##) (###) (#########)
-```
-
-Format rules `dd:dd:dd` is the digit only with separator  `:`. 
-
-Format rules `##:dd:##` is the digit and text mixed with separator  `:`. 
+![format-rule](http://clients.typecast.io/PlatoForms/imgs/format-rule.png)
 
 
-Generally, the input is fixed length. For example, `###:##` will be 3 characters in its first part and 2 characters in its second part. You can define length range by `[m-n]` format, or `*` to indicate any length. For example, this formatting rule `#[0-3]:##:#*` is 3 parts,  the first part can be 0 to 3 characters, then 2 characters in the second part, and any of length of characters in last part.
 
-**Reserved characters and escape**
+### Formatting a Text Field
 
-```
-#                        -> character placeholder
-d                        -> digit placeholder
-[], digit 0 to 9, - or * -> length definition
-\                        -> escape 
-```
+Compatible placeholder characters for the format field are:
 
-If the separator is a reserved character, you can escape it by `\`.  
+`#` : For **characters** 
 
-Some examples: 
+`d` : For **digits**
 
-Format rule `##\###\###:##`, its separator is `#` which is escaped by `\`. Its render looks like `xx#yy#cc`.
+You can signal a divide in the field using a separator. Some examples of these are:
 
-Format rule `##\[##\]##\*##`, its separator is `[`,  `]` and `*` and its render looks like `xx[yy]cc*dd`. 
+* **Colon**
+  `##:##:##` 
+  Suggested use: **time**.
+* **Slash**
+  `##/##/##` 
+  Suggested use: **date**.
+* **Parenthesis**
+  `(dd) (ddd) (ddddddddd)` 
+  Suggested use: **telephone number**.
 
-Format rule `##\\##\\##`, its separator is `\` which is escaped by its leading `\`.
+Hint: You can mix `#` (characters) and `d` (digits) if your field needs it; for example, `##/dd/##`.
 
 
-#### Format for Date and Time field 
+#### Customising the Length of the Field
 
-Date `YYYY/MM/DD`
+- **Fixed length**
+  The number of characters or digits is determined by the amount of `#` or `d`.
+  *Example:*
+  `##/###` = **Part 1:** three characters | **Part 2:** two characters
 
-Time `hh:mm:ss`
 
-Please note, these letters are case sensitive. yyyy/mm/dd won't render correctly.
+- **Variable length**
+  You can **set a length range** by using `[m-n]` format, or use `*` to indicate any length. 
+  *Example*
+  `#[0-3]:##:#*` = **Part 1:** three characters | **Part 2:** zero to three characters | **Part 3:** any number of characters.
 
-We use `moment.js` to convert date and time format rule. so if you want to more flexible date and time format, check out [the date and time format paragraph in its documentation](http://momentjs.com/docs/).
+
+
+#### **Reserved Characters and Escape**
+
+If the separator you want to use is a reserved character, you can `escape` (force it) it by using `\` one place before the divide.
+
+Here are some examples of using `\` to separate fields:
+
+- `##\###\###`
+  The separator is `#`. Use `\` to force the break; place it one character before the split. The render looks like `xx#yy#cc`.
+
+
+- `##\[##\]##\*##
+  The separator is `[, ]`, and `*`. The render looks like `xx[yy]cc*dd`.
+
+
+- `##\\##\\##`
+  The separator is `\`. The render looks like `##\##\##`.
+
+
+
+#### Formatting the Date and Time Field
+
+- **Date** 
+  `YYYY/MM/DD`
+- **Time**
+   `hh:mm:ss`
+
+***Please Note:*** The letters **are case-sensitive**, therefore, `yyyy/mm/dd` (lowercase) won’t render correctly.
+
+We use [moment.js](https://momentjs.com/) to convert date and time format rule. Learn more about [formatting date and time with moment.js](http://momentjs.com/docs/).
+
 
 
 #### Separator in PDF
-In format rule property, you can change its separator rendering mode in PDF. For example, if the separator `:` is already exist in your PDF, you can select `No` in `Print separator in PDF` in its pop menu. This separator `:` character won't render into PDF when PlatoForms generates it.
 
-![Separator Print Option](/images/page/form/separator-print.png)
+In the *format* rules (of the field property), you can change the separators rendering settings for PDF. If the separator is natively a part of the PDF, then select the option *No* for *Print separator in PDF*. This stops duplicate separators being generated when the PDF is rendered.
+
+
+
+![print-sep](http://clients.typecast.io/PlatoForms/imgs/print-sep.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
