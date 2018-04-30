@@ -23,7 +23,7 @@ There are seven text types:
 
 
 
-![text-field-properties](http://clients.typecast.io/PlatoForms/imgs/text-field-properties.png)
+![text-field-properties](/images/text-field-properties.png)
 
 
 
@@ -39,7 +39,7 @@ In the below example, you can see the text type is *Date*, and it has the format
 
 
 
-![format-rule](http://clients.typecast.io/PlatoForms/imgs/format-rule.png)
+![format-rule](/images/format-rule.png)
 
 
 
@@ -119,7 +119,7 @@ In the *format* rules (of the field property), you can change the separators ren
 
 
 
-![print-sep](http://clients.typecast.io/PlatoForms/imgs/print-sep.png)
+![print-sep](/images/print-sep.png)
 
 
 

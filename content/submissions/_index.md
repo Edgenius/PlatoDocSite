@@ -22,4 +22,4 @@ Manage your submissions from the *Submissions* page. From there, you can:
 
 
 
-![submission](http://clients.typecast.io/PlatoForms/imgs/submission.PNG)
+![submission](/images/submission.PNG)

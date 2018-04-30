@@ -28,7 +28,7 @@ All published forms have a unique URL for access. By default, these begin with `
 
 
 
-![setting](http://clients.typecast.io/PlatoForms/imgs/setting.PNG)
+![setting](/images/setting.PNG)
 
 
 
@@ -44,7 +44,7 @@ CNAME changes can take between 24- and 48-hours to take effect.
 
 
 
-![cname](http://clients.typecast.io/PlatoForms/imgs/cname.PNG)
+![cname](/images/cname.PNG)
 
 
 

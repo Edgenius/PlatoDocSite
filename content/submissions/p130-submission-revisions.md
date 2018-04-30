@@ -9,7 +9,7 @@ The PDF owner can re-submit the form to revise any input mistakes. We record eve
 
 
 
-![revisions](http://clients.typecast.io/PlatoForms/imgs/revisions.PNG)
+![revisions](/images/revisions.PNG)
 
 
 

@@ -9,7 +9,7 @@ To access the field properties, hover over a field in the left panel and click o
 
 
 
-![field-properties](http://clients.typecast.io/PlatoForms/imgs/field-properties.png)
+![field-properties](/images/field-properties.png)
 
 
 
@@ -17,4 +17,4 @@ To access the field properties, hover over a field in the left panel and click o
 
 
 
-![field-properties-main](http://clients.typecast.io/PlatoForms/imgs/field-properties-main.png)
+![field-properties-main](/images/field-properties-main.png)

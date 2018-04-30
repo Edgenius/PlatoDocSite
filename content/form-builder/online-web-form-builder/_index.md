@@ -48,7 +48,7 @@ If your PDF has multiple pages, you can switch between each page with the *Page 
 
 
 
-![switch-pages](http://clients.typecast.io/PlatoForms/imgs/switch-pages.PNG)
+![switch-pages](/images/switch-pages.PNG)
 
 
 
@@ -62,4 +62,4 @@ Preview your form or PDF at any time using the *Preview Form* and *Preview PDF* 
 
 
 
-![online-form-builder](http://clients.typecast.io/PlatoForms/imgs/online-form-builder.PNG)
+![online-form-builder](/images/online-form-builder.PNG)

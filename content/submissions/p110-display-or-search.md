@@ -11,12 +11,12 @@ At first, the *Submissions* display only shows the submission time and uploaded 
 
 
 
-![edit-display](http://clients.typecast.io/PlatoForms/imgs/edit-display.PNG)
+![edit-display](/images/edit-display.PNG)
 
 
 
 You can customize the submission table by changing the *label name* in the table header.
 
-![submission-field-label](http://clients.typecast.io/PlatoForms/imgs/submission-field-label.PNG)
+![submission-field-label](/images/submission-field-label.PNG)
 
 

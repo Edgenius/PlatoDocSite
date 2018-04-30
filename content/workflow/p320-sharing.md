@@ -15,7 +15,7 @@ Once you have designed the workflow, you need to publish it and then share it or
 
 
 
-![sharing-workflow](http://clients.typecast.io/PlatoForms/imgs/sharing-workflow.png)
+![sharing-workflow](/images/sharing-workflow.png)
 
 
 

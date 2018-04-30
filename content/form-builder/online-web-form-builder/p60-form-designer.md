@@ -10,7 +10,7 @@ In the *Form Preview* toolbar, click *Design Form* to open the *Form Designer* s
 
 
 
-![form-designer-sidebar](http://clients.typecast.io/PlatoForms/imgs/form-designer-sidebar.png)
+![form-designer-sidebar](/images/form-designer-sidebar.png)
 
 
 

@@ -12,4 +12,4 @@ We'll notify you by email of any workflow submissions; you can also view them on
 
 
 
-![workflow-submissions](http://clients.typecast.io/PlatoForms/imgs/workflow-submissions.png)
+![workflow-submissions](/images/workflow-submissions.png)

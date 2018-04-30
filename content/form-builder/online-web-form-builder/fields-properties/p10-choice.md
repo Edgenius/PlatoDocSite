@@ -32,4 +32,4 @@ Additional fields:
 
 
 
-![choices](http://clients.typecast.io/PlatoForms/imgs/choices.png)
+![choices](/images/choices.png)

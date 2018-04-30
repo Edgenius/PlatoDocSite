@@ -16,4 +16,4 @@ Workflow forms have multiple steps, and you need the power to monitor them. On o
 
 
 
-![workflow-submissions 2](http://clients.typecast.io/PlatoForms/imgs/workflow-submissions 2.PNG)
+![workflow-submissions 2](/images/workflow-submissions 2.PNG)

@@ -11,7 +11,7 @@ Once the first step is in place, the workflow steps have settings to help you co
 
 Workflow settings (only available for step two and beyond):
 
-![workflow-step-settings](http://clients.typecast.io/PlatoForms/imgs/workflow-step-settings.png)
+![workflow-step-settings](/images/workflow-step-settings.png)
 
 
 - **Merge the submission content with the previously created PDF**

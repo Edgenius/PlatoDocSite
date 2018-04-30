@@ -46,5 +46,5 @@ You can convert a PDF to an online form at any time. Each time, you will be aske
 
 
 
-![pdfmaker](http://clients.typecast.io/PlatoForms/imgs/pdfmaker.PNG)
+![pdfmaker](/images/pdfmaker.PNG)
 

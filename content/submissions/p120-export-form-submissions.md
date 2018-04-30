@@ -22,7 +22,7 @@ The CSV file includes:
 
 
 
-![export](http://clients.typecast.io/PlatoForms/imgs/export.PNG)
+![export](/images/export.PNG)
 
 
 

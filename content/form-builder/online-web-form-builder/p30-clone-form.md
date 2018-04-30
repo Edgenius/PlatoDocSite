@@ -13,7 +13,7 @@ There's no need to spend time rebuilding the same form with a few minor modifica
 **Step 2:** Click the *gear* icon in the top right of the form you want to clone.
 **Step 3:** Select *Clone Form*.
 
-![clone-form](http://clients.typecast.io/PlatoForms/imgs/clone-form.png)
+![clone-form](/images/clone-form.png)
 
 **Step 4:** In the popup, you can choose:
 
@@ -25,7 +25,7 @@ There's no need to spend time rebuilding the same form with a few minor modifica
 
   ​
 
-![clone-form-pop-up](http://clients.typecast.io/PlatoForms/imgs/clone-form-pop-up.png)
+![clone-form-pop-up](/images/clone-form-pop-up.png)
 
 
 

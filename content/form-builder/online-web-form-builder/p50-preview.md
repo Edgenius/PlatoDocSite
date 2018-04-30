@@ -10,7 +10,7 @@ You can preview your form at any time by clicking *Preview Form* in the *Tools* 
 
 
 
-![preview-button](http://clients.typecast.io/PlatoForms/imgs/preview-button.png)
+![preview-button](/images/preview-button.png)
 
 
 
@@ -18,7 +18,7 @@ The form previews are fully functioning; you can **fill them out** and **submit 
 
 #### The Form Preview
 
-![form-preview](http://clients.typecast.io/PlatoForms/imgs/form-preview.png)
+![form-preview](/images/form-preview.png)
 
 
 
@@ -30,7 +30,7 @@ Turn Form Validation **on** and **off** with the *toggle switch* in your preview
 
 
 
-![form-validation](http://clients.typecast.io/PlatoForms/imgs/form-validation.png)
+![form-validation](/images/form-validation.png)
 
 ### Filling Sample Data
 
@@ -38,7 +38,7 @@ To make previewing smoother, we recommend entering preview data for the fields y
 
 
 
-![preview-data-edit](http://clients.typecast.io/PlatoForms/imgs/preview-data-edit.png)
+![preview-data-edit](/images/preview-data-edit.png)
 
 
 
@@ -56,7 +56,7 @@ After submitting a form, you can **view the generated PDF** from the success pag
 
 
 
-![generated-pdf-view](http://clients.typecast.io/PlatoForms/imgs/generated-pdf-view.png)
+![generated-pdf-view](/images/generated-pdf-view.png)
 
 ### Sample data and Default options
 
@@ -73,4 +73,4 @@ The *Choice* and *Dropdown* field types can have a default selected value added 
 
 
 
-![sample-default](http://clients.typecast.io/PlatoForms/imgs/sample-default.png)
+![sample-default](/images/sample-default.png)

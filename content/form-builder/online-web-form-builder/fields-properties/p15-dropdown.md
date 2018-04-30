@@ -9,7 +9,7 @@ Use the *drop-down* field to provide your users with multiple options; for examp
 
 
 
-![drop-down-example](http://clients.typecast.io/PlatoForms/imgs/drop-down-example.png)
+![drop-down-example](/images/drop-down-example.png)
 
 
 
@@ -25,4 +25,4 @@ In many cases, the *Value* and *Label* could be the same. But, you have the free
 
 
 
-![dropdown](http://clients.typecast.io/PlatoForms/imgs/dropdown.png)
+![dropdown](/images/dropdown.png)

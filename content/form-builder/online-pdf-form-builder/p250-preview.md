@@ -10,7 +10,7 @@ You can preview your PDF form at any time by clicking *Preview Form* in the *Too
 
 
 
-![preview-pdf-form](http://clients.typecast.io/PlatoForms/imgs/preview-pdf-form.png)
+![preview-pdf-form](/images/preview-pdf-form.png)
 
 
 
@@ -18,7 +18,7 @@ The form previews are fully functioning; you can **fill them out** and **submit 
 
 #### The Form Preview
 
-![pfe-preview](http://clients.typecast.io/PlatoForms/imgs/pfe-preview.png)
+![pfe-preview](/images/pfe-preview.png)
 
 
 
@@ -30,7 +30,7 @@ Turn *Form Validation* **on** and **off** with the *toggle switch* in your previ
 
 
 
-![form-validation](http://clients.typecast.io/PlatoForms/imgs/form-validation.png)
+![form-validation](/images/form-validation.png)
 
 ### Fill Sample Data
 
@@ -44,4 +44,4 @@ After submitting a form, you can **view the generated PDF** from the success pag
 
 
 
-![generated-pdf-view](http://clients.typecast.io/PlatoForms/imgs/generated-pdf-view.png)
+![generated-pdf-view](/images/generated-pdf-view.png)

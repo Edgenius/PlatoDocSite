@@ -14,7 +14,7 @@ When building a master form, you don't need to upload a PDF beforehand. Click *C
 
 
 
-![master-build-layout](http://clients.typecast.io/PlatoForms/imgs/master-build-layout.png)
+![master-build-layout](/images/master-build-layout.png)
 
 
 
@@ -61,7 +61,7 @@ Once you've completed the *Master Form*, it's time to upload your PDFs as *linke
 
 
 
-![link-pdf](http://clients.typecast.io/PlatoForms/imgs/link-pdf.png)
+![link-pdf](/images/link-pdf.png)
 
 
 
@@ -92,7 +92,7 @@ Add a field to your PDF (in the right panel):
 
 
 
-![linked-form-editor-annotated](http://clients.typecast.io/PlatoForms/imgs/linked-form-editor-annotated.png)
+![linked-form-editor-annotated](/images/linked-form-editor-annotated.png)
 
 
 

@@ -29,7 +29,7 @@ Click *Preview* in the top *toolbar* to view your PDF. After you've finished bui
 
 
 
-![online-pdf-builder](http://clients.typecast.io/PlatoForms/imgs/online-pdf-builder.png)
+![online-pdf-builder](/images/online-pdf-builder.png)
 
 
 

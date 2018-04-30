@@ -6,7 +6,7 @@ weight = 5
 
 # TEAM
 
-![team](http://clients.typecast.io/PlatoForms/imgs/team.PNG)
+![team](/images/team.PNG)
 
 
 
@@ -32,4 +32,4 @@ You can manage team member permissions for every PDF. Select who is the *Form Ed
 
 
 
-![permission](http://clients.typecast.io/PlatoForms/imgs/permission.PNG)
+![permission](/images/permission.PNG)

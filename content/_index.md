@@ -17,4 +17,4 @@ PlatoForms works best when you need a form filled out by multiple people, for ex
 If you have any questions, [send us a message](https://www.platoforms.com/#contact).
 
 
-![PlatoForms Dashboard](https://docs.platoforms.com/images/page/home/dashboard.png)
+![PlatoForms Dashboard](/images/page/home/dashboard.png)

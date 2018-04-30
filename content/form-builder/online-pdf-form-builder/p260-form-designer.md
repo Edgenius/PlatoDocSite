@@ -17,7 +17,7 @@ In the *Form Preview* toolbar, click *Design Form* to open the *Form Designer* s
 
 
 
-![pfe-designer](http://clients.typecast.io/PlatoForms/imgs/pfe-designer.png)
+![pfe-designer](/images/pfe-designer.png)
 
 
 
