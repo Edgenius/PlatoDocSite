@@ -1,10 +1,8 @@
 +++
-title = "Online Web Form Builder"
+title = "ONLINE WEB FORM BUILDER"
 description = "Build online Web Forms quickly and easily with PlatoForms Web Form Builder."
 weight = 4
 +++
-
-# ONLINE WEB FORM BUILDER
 
 Use this page to learn how to use our Online Web Form Builder.
 

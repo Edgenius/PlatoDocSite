@@ -1,10 +1,8 @@
 +++
-title = "Choice Properties"
+title = "CHOICE PROPERTIES"
 weight = 310
 description = "Add a choice field to your forms. Use the PlatoForms choice properties to allow the user to pick one or multiple options."
 +++
-
-# CHOICE PROPERTIES
 
 ### Multiple or Single Choice
 

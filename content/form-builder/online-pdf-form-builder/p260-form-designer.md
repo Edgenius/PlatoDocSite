@@ -3,6 +3,7 @@ title = "FORM DESIGNER"
 weight = 64
 description = "Use the PlatoForms form designer to customise the look and feel of your PDF Online Form."
 +++
+
 {{% notice tip  %}}
 <a name="HM-DESIGNER2-210" class="anchor"></a>
 The designer is used to adjust the look and feel of the online PDF form. Any changes you make will not affect the printed PDF form.

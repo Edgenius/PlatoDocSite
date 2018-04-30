@@ -1,10 +1,9 @@
 +++
-title = "Form Editing Options"
+title = "FORM EDITING OPTIONS"
 weight = 40
 description = "PlatoForms gives you full control over the way you edit and build your PDF forms. "
 +++
 
-# FORM EDITING OPTIONS
 
 To access the form editing options, click the ***+Add*** button in the *Tools* menu, then select *Edit Options* from the drop-down menu.
 
@@ -21,6 +20,12 @@ To access the form editing options, click the ***+Add*** button in the *Tools* m
 This feature allows you to open the PDF editing tools by double-clicking on a field. To turn on, select the *checkbox*, and click *Ok*.
 
 #### Reset Editing
+
+{{% notice tip  %}}
+<a name="HM-EDITOR-100" class="anchor"></a>
+Reset Form erases all the fields on your form. If some fields are parsed from the PDF, use Reset to Initial Form to restore these fields.
+{{% /notice %}}
+
 
 In this section, there are two options:
 

@@ -1,9 +1,8 @@
 +++
-title = "Text Field Properties"
+title = "TEXT FIELD PROPERTIES"
 weight = 305
 description = "Customise your text fields with PlatoForms Text Field Properties."
 +++
-# TEXT FIELD PROPERTIES
 
 Use this section to learn how to customise your text fields.
 
@@ -30,6 +29,12 @@ There are seven text types:
 
 
 ## Format Rule
+
+{{% notice tip  %}}
+<a name="HM-EDITOR-010" class="anchor"></a>
+Use the format property to split a Text Field into two or more parts. This works great for adding the year, month and day (YYYY/MM/DD) to a date field.
+{{% /notice %}}
+
 
 The format property allows you to **split the text field into multiple parts**. This is helpful when formatting for numerical calendar dates; for example, if you entered YYYY/MM/DD, the field would divide into three sections to allow for the year, month, and day.
 

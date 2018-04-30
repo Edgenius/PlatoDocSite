@@ -1,10 +1,8 @@
 +++
-title = "Form Builder"
+title = "FORM BUILDER"
 description = "With PlatoForms you can build three types of forms: online web forms, online PDF forms, and master forms. "
 weight = 1
 +++
-
-# FORM BUILDER
 
 With PlatoForms you can build three types of forms: **online web forms**, **online PDF forms**, and **master forms**. 
 

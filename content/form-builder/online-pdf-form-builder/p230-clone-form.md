@@ -1,5 +1,5 @@
 +++
-title = "CLONE THE FORM"
+title = "CLONE FORM"
 weight = 30
 description = "Easily duplicate your forms with PlatoForms. There's no need to spend time rebuilding the same form with a few minor modifications."
 +++
